@@ -1,0 +1,510 @@
+order_id,date,product,category,price,quantity,city,customer
+ECM0054,2024-06-22,Set Peralatan Masak,Rumah Tangga,342000.0,5.0,Kediri,User9083
+ECM0351,2024-08-18,Hoodie Unisex,Fashion,114000.0,3.0,Jakarta,User3231
+ECM0286,2024-10-18,Case HP,Elektronik,52000.0,5.0,Jakarta,User5749
+ECM0378,2024-07-04,Lampu Meja LED,Rumah Tangga,68000.0,2.0,Denpasar,User4505
+ECM0421,2024-11-14,Granola Bar,Makanan,30000.0,3.0,Jakarta,User1386
+ECM0458,2024-12-11,Teh Celup Premium,Makanan,22000.0,1.0,Malang,User9830
+ECM0312,2024-09-08,Keyboard Mekanik,Elektronik,251000.0,3.0,Kediri,User7156
+ECM0462,2024-07-02,Granola Bar,Makanan,23000.0,1.0,Jakarta,User5036
+ECM0311,2024-07-18,Lampu Meja LED,Rumah Tangga,104000.0,5.0,Denpasar,User7729
+ECM0295,2024-08-01,Teh Celup Premium,Makanan,24000.0,4.0,Palembang,User4911
+ECM0342,2024-09-22,Granola Bar,Makanan,30000.0,4.0,Malang,User7639
+ECM0136,2024-06-30,Mouse Wireless,Elektronik,136000.0,5.0,Malang,User1884
+ECM0088,2025-01-14,Topi Baseball,Fashion,77000.0,4.0,Kediri,User3817
+ECM0118,2024-07-06,Mouse Wireless,Elektronik,,2.0,Jakarta,User8255
+ECM0391,2024-12-20,Granola Bar,Makanan,25000.0,1.0,Surabaya,User2939
+ECM0279,2024-06-25,Lampu Meja LED,Rumah Tangga,103000.0,3.0,Palembang,User3337
+ECM0233,2024-10-14,Case HP,Elektronik,35000.0,5.0,Denpasar,User3213
+ECM0089,2024-07-28,Granola Bar,Makanan,27000.0,2.0,Denpasar,User5373
+ECM0455,2024-12-14,Keyboard Mekanik,Elektronik,356000.0,4.0,Jakarta,User3525
+ECM0419,2024-10-28,Lampu Meja LED,Rumah Tangga,95000.0,2.0,Surabaya,User7199
+ECM0170,2024-06-13,Granola Bar,Makanan,,2.0,Malang,User6389
+ECM0191,2024-08-01,Set Peralatan Masak,Rumah Tangga,156000.0,2.0,Bandung,User5173
+ECM0259,2024-07-09,Sandal Jepit,Fashion,,2.0,Surabaya,User4540
+ECM0058,2024-07-31,Sandal Jepit,Fashion,39000.0,5.0,Malang,User5298
+ECM0427,2024-07-06,Case HP,Elektronik,49000.0,1.0,Balikpapan,User8725
+ECM0461,2024-08-27,Lampu Meja LED,Rumah Tangga,63000.0,1.0,Palembang,User1899
+ECM0137,2024-12-19,Mouse Wireless,Elektronik,77000.0,4.0,Malang,User1872
+ECM0129,2024-09-21,Charger Fast Charging,Elektronik,96000.0,4.0,Malang,User9031
+ECM0215,2024-10-12,Charger Fast Charging,Elektronik,57000.0,2.0,Malang,User8406
+ECM0084,2025-01-20,Hoodie Unisex,Fashion,129000.0,2.0,Surabaya,User2484
+ECM0289,2024-09-17,Charger Fast Charging,Elektronik,77000.0,4.0,Jakarta,User6362
+ECM0448,2024-11-30,Mouse Wireless,Elektronik,,5.0,Palembang,User3787
+ECM0192,2024-10-27,Hoodie Unisex,Fashion,204000.0,1.0,Malang,User6536
+ECM0317,2024-09-12,Keyboard Mekanik,Elektronik,387000.0,1.0,Jakarta,User3245
+ECM0071,2024-08-24,Case HP,Elektronik,56000.0,5.0,Malang,User1528
+ECM0332,2024-11-17,Topi Baseball,Fashion,52000.0,3.0,Palembang,User8849
+ECM0218,2024-09-10,Minyak Zaitun 250ml,Makanan,123000.0,3.0,Surabaya,User7426
+ECM0473,2024-06-04,Case HP,Elektronik,47000.0,2.0,Jakarta,User5293
+ECM0324,2024-07-06,Lampu Meja LED,Rumah Tangga,108000.0,1.0,Surabaya,User8952
+ECM0408,2025-01-15,Keyboard Mekanik,Elektronik,297000.0,1.0,Kediri,User2992
+ECM0340,2024-10-21,Mouse Wireless,Elektronik,90000.0,4.0,Palembang,User6195
+ECM0040,2024-12-06,Charger Fast Charging,Elektronik,88000.0,5.0,Jakarta,User5470
+ECM0248,2024-11-13,Charger Fast Charging,Elektronik,105000.0,5.0,Malang,User7058
+ECM0231,2024-10-07,Charger Fast Charging,Elektronik,70000.0,3.0,Palembang,User1953
+ECM0291,2024-12-09,Hoodie Unisex,Fashion,136000.0,3.0,Balikpapan,User2654
+ECM0468,2025-01-20,Mouse Wireless,Elektronik,87000.0,3.0,Jakarta,User5606
+ECM0105,2025-01-14,Teh Celup Premium,Makanan,19000.0,3.0,Balikpapan,User3592
+ECM0472,2024-06-20,Case HP,Elektronik,27000.0,1.0,Jakarta,User2426
+ECM0251,2024-08-24,Topi Baseball,Fashion,75000.0,2.0,Surabaya,User2533
+ECM0061,2024-12-09,Case HP,Elektronik,46000.0,3.0,Jakarta,User9547
+ECM0475,2024-08-22,Lampu Meja LED,Rumah Tangga,69000.0,5.0,Malang,User9562
+ECM0367,2024-12-23,Set Peralatan Masak,Rumah Tangga,313000.0,1.0,Surabaya,User9812
+ECM0175,2025-01-06,Sandal Jepit,Fashion,25000.0,1.0,Surabaya,User5936
+ECM0201,2024-11-21,Sandal Jepit,Fashion,49000.0,2.0,Jakarta,User2751
+ECM0256,2024-10-01,Mouse Wireless,Elektronik,98000.0,3.0,Palembang,User9302
+ECM0325,2024-11-02,Mouse Wireless,Elektronik,148000.0,3.0,Palembang,User6491
+ECM0424,2024-08-12,Lampu Meja LED,Rumah Tangga,57000.0,2.0,Jakarta,User6355
+ECM0124,2024-10-21,Charger Fast Charging,Elektronik,51000.0,1.0,Malang,User4088
+ECM0017,2024-08-05,Teh Celup Premium,Makanan,18000.0,2.0,Bandung,User2736
+ECM0394,2024-09-16,Minyak Zaitun 250ml,Makanan,82000.0,2.0,Jakarta,User9224
+ECM0466,2024-10-12,Topi Baseball,Fashion,40000.0,1.0,Kediri,User3666
+ECM0337,2024-06-29,Topi Baseball,Fashion,35000.0,5.0,Surabaya,User7066
+ECM0144,2025-01-26,Keyboard Mekanik,Elektronik,451000.0,4.0,Denpasar,User5485
+ECM0282,2024-11-14,Keyboard Mekanik,Elektronik,344000.0,,Malang,User3148
+ECM0272,2024-11-04,Charger Fast Charging,Elektronik,81000.0,3.0,Denpasar,User7759
+ECM0407,2024-10-27,Keyboard Mekanik,Elektronik,275000.0,2.0,Denpasar,User3318
+ECM0385,2024-09-15,Charger Fast Charging,Elektronik,105000.0,4.0,Malang,User5026
+ECM0392,2024-10-22,Mouse Wireless,Elektronik,105000.0,2.0,Surabaya,User8220
+ECM0028,2024-11-05,Set Peralatan Masak,Rumah Tangga,159000.0,1.0,Bandung,User2200
+ECM0269,2024-06-27,Mouse Wireless,Elektronik,125000.0,3.0,Malang,User1726
+ECM0005,2024-08-03,Charger Fast Charging,Elektronik,100000.0,1.0,Palembang,User2924
+ECM0413,2024-10-21,Mouse Wireless,Elektronik,82000.0,2.0,Balikpapan,User6907
+ECM0154,2024-11-24,Hoodie Unisex,Fashion,117000.0,2.0,Jakarta,User9093
+ECM0454,2024-11-27,Mouse Wireless,Elektronik,120000.0,1.0,Malang,User3285
+ECM0027,2024-09-15,Charger Fast Charging,Elektronik,51000.0,5.0,Kediri,User7930
+ECM0285,2024-07-24,Set Peralatan Masak,Rumah Tangga,168000.0,3.0,Balikpapan,User9895
+ECM0260,2024-06-01,Hoodie Unisex,Fashion,159000.0,5.0,Kediri,User7367
+ECM0147,2024-12-22,Sandal Jepit,Fashion,21000.0,3.0,Denpasar,User6246
+ECM0222,2024-09-11,Keyboard Mekanik,Elektronik,459000.0,3.0,Surabaya,User3173
+ECM0045,2024-08-02,Granola Bar,Makanan,24000.0,2.0,Balikpapan,User1529
+ECM0021,2024-08-24,Topi Baseball,Fashion,69000.0,3.0,Kediri,User9355
+ECM0489,2024-12-26,Topi Baseball,Fashion,49000.0,3.0,Bandung,User9993
+ECM0038,2024-10-14,Keyboard Mekanik,Elektronik,480000.0,2.0,Palembang,User5960
+ECM0263,2024-08-01,Topi Baseball,Fashion,43000.0,1.0,Palembang,User7359
+ECM0062,2024-12-28,Mouse Wireless,Elektronik,139000.0,4.0,Denpasar,User5393
+ECM0034,2024-08-04,Lampu Meja LED,Rumah Tangga,58000.0,5.0,Surabaya,User8749
+ECM0130,2024-07-30,Lampu Meja LED,Rumah Tangga,84000.0,5.0,Surabaya,User5740
+ECM0432,2025-01-22,Case HP,Elektronik,38000.0,2.0,Malang,User2083
+ECM0114,2024-11-12,Topi Baseball,Fashion,40000.0,4.0,Kediri,User7868
+ECM0330,2024-11-03,Keyboard Mekanik,Elektronik,394000.0,2.0,Balikpapan,User3693
+ECM0345,2025-01-24,Sandal Jepit,Fashion,27000.0,1.0,Malang,User2517
+ECM0306,2024-10-20,Sandal Jepit,Fashion,46000.0,2.0,Bandung,User8972
+ECM0497,2024-07-05,Mouse Wireless,Elektronik,99000.0,4.0,Balikpapan,User8211
+ECM0140,2024-12-16,Granola Bar,Makanan,19000.0,4.0,Jakarta,User9026
+ECM0494,2024-06-16,Teh Celup Premium,Makanan,27000.0,2.0,Denpasar,User2731
+ECM0326,2024-06-22,Set Peralatan Masak,Rumah Tangga,286000.0,5.0,Balikpapan,User4527
+ECM0166,2024-10-04,Teh Celup Premium,Makanan,38000.0,5.0,Balikpapan,User9922
+ECM0319,2024-08-19,Keyboard Mekanik,Elektronik,332000.0,1.0,Denpasar,User5760
+ECM0008,2024-11-27,Keyboard Mekanik,Elektronik,535000.0,2.0,Balikpapan,User4095
+ECM0420,2024-09-11,Granola Bar,Makanan,27000.0,5.0,Jakarta,User3105
+ECM0238,2024-09-29,Topi Baseball,Fashion,48000.0,3.0,Surabaya,User2093
+ECM0116,2024-09-19,Case HP,Elektronik,33000.0,3.0,Bandung,User4851
+ECM0190,2024-11-14,Keyboard Mekanik,Elektronik,347000.0,2.0,Palembang,User9931
+ECM0396,2024-06-04,Charger Fast Charging,Elektronik,49000.0,3.0,Bandung,User5780
+ECM0022,2024-10-06,Case HP,Elektronik,21000.0,3.0,Malang,User9398
+ECM0015,2025-01-13,Granola Bar,Makanan,19000.0,2.0,Jakarta,User1974
+ECM0372,2024-08-10,Hoodie Unisex,Fashion,189000.0,4.0,Bandung,User3856
+ECM0429,2024-12-11,Mouse Wireless,Elektronik,113000.0,2.0,Bandung,User2113
+ECM0057,2024-08-13,Lampu Meja LED,Rumah Tangga,88000.0,,Denpasar,User2710
+ECM0271,2024-10-05,Teh Celup Premium,Makanan,37000.0,3.0,Balikpapan,User7066
+ECM0240,2024-12-10,Topi Baseball,Fashion,37000.0,2.0,Balikpapan,User6245
+ECM0414,2024-10-30,Case HP,Elektronik,20000.0,3.0,Denpasar,User2362
+ECM0496,2024-06-03,Charger Fast Charging,Elektronik,96000.0,2.0,Bandung,User9752
+ECM0138,2024-11-22,Case HP,Elektronik,26000.0,5.0,Kediri,User1954
+ECM0095,2024-12-15,Topi Baseball,Fashion,42000.0,1.0,Malang,User5466
+ECM0405,2024-09-02,Hoodie Unisex,Fashion,209000.0,1.0,Malang,User9680
+ECM0244,2025-01-14,Teh Celup Premium,Makanan,28000.0,3.0,Surabaya,User4497
+ECM0379,2024-06-02,Sandal Jepit,Fashion,29000.0,5.0,Malang,User6421
+ECM0075,2024-06-20,Topi Baseball,Fashion,68000.0,1.0,Palembang,User7510
+ECM0032,2024-09-16,Set Peralatan Masak,Rumah Tangga,362000.0,1.0,Balikpapan,User5162
+ECM0481,2024-06-25,Hoodie Unisex,Fashion,99000.0,1.0,Bandung,User1847
+ECM0384,2024-08-31,Hoodie Unisex,Fashion,167000.0,4.0,Kediri,User3122
+ECM0482,2024-11-01,Keyboard Mekanik,Elektronik,298000.0,1.0,Malang,User1273
+ECM0492,2025-01-11,Charger Fast Charging,Elektronik,65000.0,1.0,Jakarta,User8252
+ECM0484,2024-08-24,Set Peralatan Masak,Rumah Tangga,183000.0,3.0,Denpasar,User6580
+ECM0212,2024-12-30,Sandal Jepit,Fashion,21000.0,2.0,Bandung,User9289
+ECM0321,2024-08-14,Teh Celup Premium,Makanan,20000.0,2.0,Palembang,User3961
+ECM0402,2024-08-15,Granola Bar,Makanan,28000.0,4.0,Palembang,User9368
+ECM0359,2024-07-23,Mouse Wireless,Elektronik,118000.0,4.0,Balikpapan,User7444
+ECM0122,2024-11-30,Case HP,Elektronik,24000.0,1.0,Bandung,User2595
+ECM0293,2024-09-09,Case HP,Elektronik,54000.0,2.0,Balikpapan,User1359
+ECM0280,2024-06-29,Case HP,Elektronik,41000.0,1.0,Denpasar,User8084
+ECM0202,2024-09-15,Sandal Jepit,Fashion,32000.0,1.0,Palembang,User8802
+ECM0500,2025-01-13,Topi Baseball,Fashion,61000.0,2.0,Jakarta,User5346
+ECM0163,2024-10-16,Minyak Zaitun 250ml,Makanan,114000.0,,Malang,User1997
+ECM0360,2024-10-26,Topi Baseball,Fashion,62000.0,5.0,Surabaya,User8465
+ECM0292,2024-06-11,Sandal Jepit,Fashion,51000.0,1.0,Jakarta,User2809
+ECM0185,2024-12-17,Set Peralatan Masak,Rumah Tangga,259000.0,3.0,Bandung,User3248
+ECM0102,2024-11-13,Set Peralatan Masak,Rumah Tangga,334000.0,3.0,Jakarta,User2894
+ECM0055,2024-11-05,Lampu Meja LED,Rumah Tangga,63000.0,3.0,Kediri,User9526
+ECM0056,2024-08-25,Teh Celup Premium,Makanan,25000.0,2.0,Bandung,User7144
+ECM0439,2024-11-15,Case HP,Elektronik,54000.0,4.0,Bandung,User1039
+ECM0042,2024-07-11,Case HP,Elektronik,57000.0,3.0,Palembang,User3040
+ECM0204,2024-12-02,Topi Baseball,Fashion,38000.0,3.0,Malang,User6734
+ECM0145,2024-11-13,Keyboard Mekanik,Elektronik,,1.0,Surabaya,User5854
+ECM0422,2024-11-30,Topi Baseball,Fashion,47000.0,4.0,Palembang,User6140
+ECM0181,2024-10-05,Lampu Meja LED,Rumah Tangga,102000.0,3.0,Balikpapan,User1148
+ECM0171,2024-06-14,Sandal Jepit,Fashion,52000.0,4.0,Kediri,User5791
+ECM0350,2024-08-20,Teh Celup Premium,Makanan,35000.0,3.0,Surabaya,User7195
+ECM0156,2024-09-16,Sandal Jepit,Fashion,30000.0,2.0,Balikpapan,User8534
+ECM0203,2024-07-19,Granola Bar,Makanan,20000.0,2.0,Surabaya,User5059
+ECM0346,2024-09-09,Charger Fast Charging,Elektronik,88000.0,2.0,Balikpapan,User2128
+ECM0229,2024-09-03,Case HP,Elektronik,36000.0,2.0,Malang,User7700
+ECM0050,2024-10-20,Granola Bar,Makanan,19000.0,2.0,Jakarta,User4000
+ECM0125,2024-10-13,Mouse Wireless,Elektronik,128000.0,5.0,Bandung,User1098
+ECM0324,2024-07-06,Lampu Meja LED,Rumah Tangga,108000.0,1.0,Surabaya,User8952
+ECM0012,2024-10-03,Sandal Jepit,Fashion,38000.0,,Jakarta,User8427
+ECM0174,2024-12-18,Charger Fast Charging,Elektronik,90000.0,2.0,Bandung,User4241
+ECM0241,2024-06-21,Mouse Wireless,Elektronik,136000.0,2.0,Surabaya,User6243
+ECM0211,2024-12-06,Hoodie Unisex,Fashion,171000.0,5.0,Surabaya,User6993
+ECM0151,2024-06-26,Hoodie Unisex,Fashion,170000.0,4.0,Jakarta,User3458
+ECM0310,2025-01-12,Keyboard Mekanik,Elektronik,410000.0,4.0,Bandung,User5171
+ECM0013,2024-09-16,Hoodie Unisex,Fashion,,4.0,Surabaya,User6517
+ECM0467,2024-10-25,Hoodie Unisex,Fashion,138000.0,2.0,Malang,User8913
+ECM0235,2024-11-25,Mouse Wireless,Elektronik,140000.0,4.0,Jakarta,User6172
+ECM0103,2024-10-12,Set Peralatan Masak,Rumah Tangga,367000.0,5.0,Bandung,User6109
+ECM0159,2024-07-09,Mouse Wireless,Elektronik,72000.0,2.0,Surabaya,User4360
+ECM0200,2024-06-07,Charger Fast Charging,Elektronik,53000.0,5.0,Denpasar,User3582
+ECM0296,2024-08-09,Keyboard Mekanik,Elektronik,282000.0,5.0,Malang,User7073
+ECM0180,2024-10-27,Topi Baseball,Fashion,46000.0,4.0,Palembang,User6547
+ECM0029,2024-11-25,Sandal Jepit,Fashion,21000.0,4.0,Malang,User8192
+ECM0176,2024-07-10,Case HP,Elektronik,59000.0,2.0,Bandung,User4585
+ECM0107,2024-06-19,Set Peralatan Masak,Rumah Tangga,365000.0,4.0,Malang,User1800
+ECM0493,2024-12-06,Charger Fast Charging,Elektronik,105000.0,3.0,Palembang,User6549
+ECM0205,2024-12-25,Granola Bar,Makanan,30000.0,4.0,Balikpapan,User2119
+ECM0380,2024-12-07,Granola Bar,Makanan,25000.0,2.0,Denpasar,User4401
+ECM0189,2024-11-29,Mouse Wireless,Elektronik,104000.0,1.0,Balikpapan,User9549
+ECM0083,2024-06-20,Case HP,Elektronik,55000.0,4.0,Malang,User2797
+ECM0334,2024-07-08,Mouse Wireless,Elektronik,70000.0,3.0,Bandung,User8400
+ECM0053,2024-08-01,Lampu Meja LED,Rumah Tangga,89000.0,2.0,Malang,User5340
+ECM0135,2024-07-03,Mouse Wireless,Elektronik,81000.0,5.0,Palembang,User1606
+ECM0131,2024-12-27,Sandal Jepit,Fashion,39000.0,4.0,Bandung,User3967
+ECM0197,2024-09-23,Hoodie Unisex,Fashion,164000.0,4.0,Malang,User8440
+ECM0099,2024-07-02,Topi Baseball,Fashion,44000.0,1.0,Surabaya,User6162
+ECM0273,2024-10-19,Minyak Zaitun 250ml,Makanan,124000.0,4.0,Jakarta,User3841
+ECM0221,2024-10-09,Hoodie Unisex,Fashion,157000.0,5.0,Kediri,User6670
+ECM0230,2025-01-09,Hoodie Unisex,Fashion,103000.0,3.0,Kediri,User2878
+ECM0370,2024-12-03,Lampu Meja LED,Rumah Tangga,60000.0,1.0,Denpasar,User6912
+ECM0415,2024-12-12,Sandal Jepit,Fashion,25000.0,4.0,Balikpapan,User3435
+ECM0213,2024-08-14,Sandal Jepit,Fashion,48000.0,3.0,Denpasar,User7955
+ECM0127,2024-09-29,Lampu Meja LED,Rumah Tangga,74000.0,2.0,Surabaya,User2115
+ECM0376,2024-09-03,Lampu Meja LED,Rumah Tangga,87000.0,2.0,Denpasar,User4154
+ECM0106,2024-06-16,Granola Bar,Makanan,15000.0,4.0,Jakarta,User9913
+ECM0314,2024-06-30,Sandal Jepit,Fashion,34000.0,3.0,Malang,User8583
+ECM0268,2024-07-25,Teh Celup Premium,Makanan,39000.0,1.0,Kediri,User1315
+ECM0010,2024-11-18,Sandal Jepit,Fashion,27000.0,4.0,Surabaya,User4742
+ECM0104,2024-07-11,Teh Celup Premium,Makanan,32000.0,1.0,Bandung,User7276
+ECM0208,2024-09-07,Mouse Wireless,Elektronik,111000.0,5.0,Denpasar,User8527
+ECM0220,2024-06-20,Topi Baseball,Fashion,,2.0,Kediri,User6298
+ECM0078,2024-06-09,Charger Fast Charging,Elektronik,79000.0,5.0,Jakarta,User1891
+ECM0343,2025-01-06,Case HP,Elektronik,32000.0,4.0,Jakarta,User3201
+ECM0009,2025-01-04,Keyboard Mekanik,Elektronik,289000.0,2.0,Malang,User9431
+ECM0219,2024-06-15,Charger Fast Charging,Elektronik,81000.0,2.0,Bandung,User3596
+ECM0199,2025-01-09,Sandal Jepit,Fashion,44000.0,5.0,Malang,User2100
+ECM0003,2024-08-12,Hoodie Unisex,Fashion,139000.0,3.0,Bandung,User7450
+ECM0387,2024-11-11,Hoodie Unisex,Fashion,152000.0,2.0,Balikpapan,User9267
+ECM0217,2024-10-19,Mouse Wireless,Elektronik,146000.0,2.0,Surabaya,User9385
+ECM0258,2024-11-25,Case HP,Elektronik,,1.0,Bandung,User8585
+ECM0278,2024-08-25,Topi Baseball,Fashion,44000.0,4.0,Palembang,User6903
+ECM0267,2024-12-02,Teh Celup Premium,Makanan,22000.0,4.0,Surabaya,User5472
+ECM0198,2024-10-27,Topi Baseball,Fashion,51000.0,3.0,Surabaya,User3354
+ECM0026,2025-01-10,Case HP,Elektronik,50000.0,2.0,Jakarta,User5434
+ECM0283,2024-10-17,Teh Celup Premium,Makanan,33000.0,4.0,Palembang,User9413
+ECM0297,2024-12-28,Charger Fast Charging,Elektronik,89000.0,4.0,Jakarta,User9601
+ECM0196,2024-06-04,Lampu Meja LED,Rumah Tangga,61000.0,5.0,Denpasar,User6927
+ECM0465,2024-12-06,Keyboard Mekanik,Elektronik,418000.0,4.0,Kediri,User3699
+ECM0348,2024-07-07,Set Peralatan Masak,Rumah Tangga,312000.0,5.0,Kediri,User1843
+ECM0051,2024-09-22,Charger Fast Charging,Elektronik,91000.0,3.0,Denpasar,User2406
+ECM0444,2024-07-17,Keyboard Mekanik,Elektronik,422000.0,2.0,Bandung,User6468
+ECM0086,2024-06-10,Case HP,Elektronik,44000.0,2.0,Balikpapan,User1655
+ECM0160,2024-09-30,Topi Baseball,Fashion,76000.0,5.0,Denpasar,User9870
+ECM0165,2025-01-18,Topi Baseball,Fashion,53000.0,1.0,Jakarta,User9308
+ECM0430,2024-08-19,Set Peralatan Masak,Rumah Tangga,248000.0,1.0,Denpasar,User1416
+ECM0023,2024-06-17,Keyboard Mekanik,Elektronik,344000.0,1.0,Malang,User7882
+ECM0063,2025-01-12,Case HP,Elektronik,25000.0,5.0,Bandung,User4314
+ECM0453,2025-01-21,Hoodie Unisex,Fashion,182000.0,5.0,Malang,User6311
+ECM0100,2024-10-18,Topi Baseball,Fashion,53000.0,,Malang,User2396
+ECM0070,2024-10-04,Set Peralatan Masak,Rumah Tangga,216000.0,5.0,Bandung,User2106
+ECM0390,2024-09-27,Granola Bar,Makanan,25000.0,4.0,Malang,User5150
+ECM0187,2024-10-26,Charger Fast Charging,Elektronik,108000.0,3.0,Surabaya,User3876
+ECM0354,2024-10-09,Lampu Meja LED,Rumah Tangga,63000.0,2.0,Kediri,User4045
+ECM0183,2024-08-19,Hoodie Unisex,Fashion,192000.0,1.0,Denpasar,User1111
+ECM0347,2024-06-06,Keyboard Mekanik,Elektronik,347000.0,3.0,Malang,User9618
+ECM0252,2025-01-20,Granola Bar,Makanan,24000.0,4.0,Malang,User1662
+ECM0113,2024-06-24,Charger Fast Charging,Elektronik,48000.0,2.0,Denpasar,User8976
+ECM0341,2024-11-20,Hoodie Unisex,Fashion,120000.0,5.0,Palembang,User8936
+ECM0206,2025-01-06,Charger Fast Charging,Elektronik,98000.0,2.0,Balikpapan,User5463
+ECM0096,2024-06-08,Mouse Wireless,Elektronik,115000.0,5.0,Malang,User9575
+ECM0152,2024-12-27,Set Peralatan Masak,Rumah Tangga,361000.0,3.0,Kediri,User5992
+ECM0184,2024-09-30,Granola Bar,Makanan,28000.0,3.0,Bandung,User1000
+ECM0383,2024-08-12,Mouse Wireless,Elektronik,115000.0,5.0,Jakarta,User2658
+ECM0316,2024-10-28,Topi Baseball,Fashion,45000.0,1.0,Malang,User9013
+ECM0030,2024-12-23,Charger Fast Charging,Elektronik,97000.0,4.0,Palembang,User4131
+ECM0298,2024-11-25,Case HP,Elektronik,58000.0,5.0,Kediri,User1511
+ECM0355,2024-07-09,Keyboard Mekanik,Elektronik,346000.0,5.0,Bandung,User6164
+ECM0239,2024-11-14,Case HP,Elektronik,38000.0,4.0,Malang,User7710
+ECM0131,2024-12-27,Sandal Jepit,Fashion,39000.0,4.0,Bandung,User3967
+ECM0470,2024-12-10,Teh Celup Premium,Makanan,32000.0,1.0,Bandung,User1790
+ECM0309,2024-09-07,Case HP,Elektronik,37000.0,2.0,Malang,User3887
+ECM0460,2024-09-14,Case HP,Elektronik,33000.0,3.0,Surabaya,User3141
+ECM0477,2024-11-13,Topi Baseball,Fashion,61000.0,1.0,Balikpapan,User7388
+ECM0117,2024-12-01,Hoodie Unisex,Fashion,135000.0,4.0,Bandung,User3257
+ECM0450,2024-09-09,Keyboard Mekanik,Elektronik,407000.0,5.0,Malang,User1770
+ECM0087,2025-01-02,Minyak Zaitun 250ml,Makanan,110000.0,4.0,Jakarta,User1043
+ECM0443,2024-07-05,Hoodie Unisex,Fashion,185000.0,1.0,Malang,User2289
+ECM0275,2024-06-14,Hoodie Unisex,Fashion,150000.0,1.0,Balikpapan,User8569
+ECM0323,2024-09-04,Set Peralatan Masak,Rumah Tangga,156000.0,3.0,Kediri,User1974
+ECM0366,2024-09-22,Teh Celup Premium,Makanan,37000.0,3.0,Jakarta,User8421
+ECM0047,2024-08-10,Minyak Zaitun 250ml,Makanan,64000.0,3.0,Palembang,User3326
+ECM0004,2024-08-26,Sandal Jepit,Fashion,36000.0,3.0,Balikpapan,User1909
+ECM0277,2024-07-08,Topi Baseball,Fashion,,2.0,Kediri,User1439
+ECM0236,2024-10-26,Lampu Meja LED,Rumah Tangga,84000.0,3.0,Bandung,User6101
+ECM0031,2025-01-21,Lampu Meja LED,Rumah Tangga,62000.0,4.0,Bandung,User4727
+ECM0155,2025-01-17,Granola Bar,Makanan,29000.0,2.0,Palembang,User6321
+ECM0305,2024-11-30,Charger Fast Charging,Elektronik,73000.0,3.0,Denpasar,User3207
+ECM0403,2024-11-26,Set Peralatan Masak,Rumah Tangga,201000.0,3.0,Denpasar,User5920
+ECM0052,2025-01-26,Teh Celup Premium,Makanan,33000.0,1.0,Balikpapan,User7875
+ECM0037,2024-06-12,Granola Bar,Makanan,19000.0,2.0,Palembang,User2366
+ECM0098,2025-01-23,Charger Fast Charging,Elektronik,64000.0,2.0,Denpasar,User3982
+ECM0498,2024-12-21,Set Peralatan Masak,Rumah Tangga,287000.0,4.0,Surabaya,User9384
+ECM0014,2025-01-09,Set Peralatan Masak,Rumah Tangga,236000.0,1.0,Jakarta,User6445
+ECM0164,2025-01-17,Set Peralatan Masak,Rumah Tangga,,4.0,Kediri,User2684
+ECM0059,2024-10-20,Topi Baseball,Fashion,66000.0,4.0,Jakarta,User1348
+ECM0064,2024-08-11,Keyboard Mekanik,Elektronik,510000.0,3.0,Denpasar,User8520
+ECM0234,2024-12-11,Topi Baseball,Fashion,43000.0,3.0,Palembang,User4517
+ECM0299,2024-12-17,Minyak Zaitun 250ml,Makanan,92000.0,2.0,Surabaya,User8311
+ECM0377,2024-06-28,Set Peralatan Masak,Rumah Tangga,335000.0,3.0,Denpasar,User6136
+ECM0483,2024-06-10,Lampu Meja LED,Rumah Tangga,102000.0,1.0,Denpasar,User1811
+ECM0266,2024-12-05,Sandal Jepit,Fashion,50000.0,2.0,Denpasar,User2592
+ECM0447,2024-10-14,Lampu Meja LED,Rumah Tangga,96000.0,3.0,Jakarta,User2388
+ECM0079,2024-07-08,Lampu Meja LED,Rumah Tangga,96000.0,4.0,Surabaya,User8742
+ECM0046,2024-12-13,Hoodie Unisex,Fashion,137000.0,3.0,Surabaya,User1110
+ECM0158,2024-06-13,Keyboard Mekanik,Elektronik,329000.0,2.0,Bandung,User8044
+ECM0025,2024-11-19,Case HP,Elektronik,37000.0,1.0,Malang,User8256
+ECM0318,2024-07-23,Hoodie Unisex,Fashion,210000.0,1.0,Kediri,User2074
+ECM0257,2024-11-08,Sandal Jepit,Fashion,48000.0,,Bandung,User4692
+ECM0426,2024-11-01,Case HP,Elektronik,30000.0,5.0,Denpasar,User1304
+ECM0358,2024-12-14,Keyboard Mekanik,Elektronik,530000.0,3.0,Denpasar,User2748
+ECM0425,2024-06-17,Case HP,Elektronik,26000.0,3.0,Kediri,User1572
+ECM0290,2024-07-29,Teh Celup Premium,Makanan,31000.0,1.0,Bandung,User6758
+ECM0353,2024-11-26,Keyboard Mekanik,Elektronik,540000.0,5.0,Jakarta,User6329
+ECM0320,2024-07-09,Teh Celup Premium,Makanan,29000.0,1.0,Jakarta,User2752
+ECM0123,2024-08-20,Topi Baseball,Fashion,79000.0,2.0,Jakarta,User7731
+ECM0067,2024-08-19,Sandal Jepit,Fashion,29000.0,2.0,Balikpapan,User4492
+ECM0195,2024-09-19,Mouse Wireless,Elektronik,63000.0,4.0,Jakarta,User6894
+ECM0178,2024-07-07,Minyak Zaitun 250ml,Makanan,80000.0,,Denpasar,User9663
+ECM0207,2025-01-11,Teh Celup Premium,Makanan,19000.0,2.0,Denpasar,User9481
+ECM0128,2024-10-22,Keyboard Mekanik,Elektronik,367000.0,3.0,Palembang,User2992
+ECM0349,2024-09-21,Minyak Zaitun 250ml,Makanan,114000.0,1.0,Surabaya,User9219
+ECM0308,2024-08-31,Hoodie Unisex,Fashion,184000.0,2.0,Palembang,User3494
+ECM0479,2024-07-05,Minyak Zaitun 250ml,Makanan,93000.0,3.0,Palembang,User3914
+ECM0001,2024-09-19,Case HP,Elektronik,28000.0,4.0,Balikpapan,User2631
+ECM0227,2024-06-02,Granola Bar,Makanan,27000.0,5.0,Malang,User6980
+ECM0459,2024-08-10,Case HP,Elektronik,47000.0,3.0,Surabaya,User6832
+ECM0451,2024-07-21,Case HP,Elektronik,20000.0,2.0,Jakarta,User1985
+ECM0250,2024-09-21,Charger Fast Charging,Elektronik,81000.0,4.0,Jakarta,User5569
+ECM0109,2024-09-21,Lampu Meja LED,Rumah Tangga,119000.0,4.0,Surabaya,User5933
+ECM0194,2024-09-04,Set Peralatan Masak,Rumah Tangga,319000.0,4.0,Bandung,User5288
+ECM0006,2024-08-22,Hoodie Unisex,Fashion,100000.0,5.0,Denpasar,User7670
+ECM0261,2024-06-09,Hoodie Unisex,Fashion,132000.0,1.0,Palembang,User4006
+ECM0452,2024-08-24,Lampu Meja LED,Rumah Tangga,128000.0,1.0,Balikpapan,User2567
+ECM0411,2024-09-14,Case HP,Elektronik,33000.0,4.0,Balikpapan,User2680
+ECM0445,2024-09-25,Minyak Zaitun 250ml,Makanan,61000.0,2.0,Palembang,User7298
+ECM0060,2024-08-21,Granola Bar,Makanan,16000.0,4.0,Jakarta,User6295
+ECM0048,2024-06-29,Set Peralatan Masak,Rumah Tangga,167000.0,4.0,Denpasar,User4598
+ECM0303,2024-10-04,Minyak Zaitun 250ml,Makanan,105000.0,3.0,Bandung,User4345
+ECM0352,2024-12-09,Lampu Meja LED,Rumah Tangga,106000.0,5.0,Surabaya,User6902
+ECM0121,2024-10-15,Granola Bar,Makanan,19000.0,3.0,Surabaya,User1077
+ECM0287,2024-10-07,Charger Fast Charging,Elektronik,85000.0,5.0,Bandung,User7114
+ECM0247,2025-01-13,Minyak Zaitun 250ml,Makanan,117000.0,3.0,Jakarta,User4539
+ECM0373,2024-09-16,Mouse Wireless,Elektronik,140000.0,3.0,Malang,User7283
+ECM0167,2024-11-27,Keyboard Mekanik,Elektronik,415000.0,4.0,Surabaya,User8374
+ECM0313,2024-10-04,Teh Celup Premium,Makanan,29000.0,2.0,Bandung,User1938
+ECM0404,2024-12-27,Minyak Zaitun 250ml,Makanan,115000.0,5.0,Denpasar,User2526
+ECM0210,2024-07-05,Minyak Zaitun 250ml,Makanan,94000.0,1.0,Jakarta,User5158
+ECM0356,2024-09-21,Charger Fast Charging,Elektronik,109000.0,1.0,Bandung,User2798
+ECM0223,2024-07-30,Set Peralatan Masak,Rumah Tangga,266000.0,4.0,Surabaya,User8405
+ECM0300,2024-07-24,Sandal Jepit,Fashion,38000.0,4.0,Surabaya,User8743
+ECM0214,2024-09-27,Teh Celup Premium,Makanan,19000.0,2.0,Surabaya,User3697
+ECM0441,2024-12-16,Mouse Wireless,Elektronik,83000.0,5.0,Denpasar,User2563
+ECM0400,2024-07-24,Sandal Jepit,Fashion,47000.0,2.0,Surabaya,User3023
+ECM0292,2024-06-11,Sandal Jepit,Fashion,51000.0,1.0,Jakarta,User2809
+ECM0043,2024-08-15,Topi Baseball,Fashion,71000.0,2.0,Palembang,User3370
+ECM0397,2024-10-08,Sandal Jepit,Fashion,53000.0,1.0,Malang,User7511
+ECM0437,2024-10-13,Set Peralatan Masak,Rumah Tangga,317000.0,1.0,Balikpapan,User9860
+ECM0474,2024-07-25,Case HP,Elektronik,53000.0,2.0,Jakarta,User5493
+ECM0077,2024-10-20,Granola Bar,Makanan,25000.0,3.0,Malang,User8581
+ECM0398,2025-01-04,Keyboard Mekanik,Elektronik,278000.0,5.0,Jakarta,User6919
+ECM0457,2024-08-09,Mouse Wireless,Elektronik,133000.0,1.0,Malang,User7259
+ECM0074,2024-07-01,Set Peralatan Masak,Rumah Tangga,260000.0,3.0,Jakarta,User7337
+ECM0433,2024-06-14,Topi Baseball,Fashion,78000.0,5.0,Surabaya,User7433
+ECM0365,2025-01-06,Hoodie Unisex,Fashion,197000.0,1.0,Bandung,User5940
+ECM0434,2024-11-13,Topi Baseball,Fashion,38000.0,4.0,Jakarta,User3085
+ECM0464,2025-01-02,Mouse Wireless,Elektronik,124000.0,2.0,Balikpapan,User9514
+ECM0153,2024-09-04,Mouse Wireless,Elektronik,121000.0,2.0,Jakarta,User6329
+ECM0033,2024-12-22,Sandal Jepit,Fashion,29000.0,5.0,Denpasar,User4825
+ECM0016,2024-08-05,Topi Baseball,Fashion,69000.0,2.0,Bandung,User8419
+ECM0108,2024-06-14,Hoodie Unisex,Fashion,132000.0,1.0,Kediri,User5895
+ECM0495,2024-06-24,Lampu Meja LED,Rumah Tangga,110000.0,5.0,Jakarta,User1769
+ECM0148,2024-11-05,Charger Fast Charging,Elektronik,94000.0,3.0,Bandung,User6592
+ECM0255,2024-09-05,Minyak Zaitun 250ml,Makanan,95000.0,3.0,Kediri,User1109
+ECM0435,2024-10-08,Keyboard Mekanik,Elektronik,278000.0,1.0,Surabaya,User1689
+ECM0036,2024-09-09,Lampu Meja LED,Rumah Tangga,110000.0,3.0,Jakarta,User5209
+ECM0226,2024-12-29,Keyboard Mekanik,Elektronik,329000.0,2.0,Malang,User4053
+ECM0173,2024-07-31,Teh Celup Premium,Makanan,27000.0,5.0,Jakarta,User1870
+ECM0382,2024-11-17,Set Peralatan Masak,Rumah Tangga,187000.0,5.0,Surabaya,User7457
+ECM0018,2024-09-01,Teh Celup Premium,Makanan,38000.0,2.0,Denpasar,User9820
+ECM0344,2025-01-23,Lampu Meja LED,Rumah Tangga,104000.0,1.0,Surabaya,User8499
+ECM0157,2024-08-28,Minyak Zaitun 250ml,Makanan,120000.0,1.0,Balikpapan,User5677
+ECM0491,2024-09-22,Case HP,Elektronik,22000.0,2.0,Jakarta,User6395
+ECM0388,2024-12-30,Lampu Meja LED,Rumah Tangga,114000.0,2.0,Surabaya,User5390
+ECM0406,2024-06-12,Teh Celup Premium,Makanan,20000.0,3.0,Kediri,User3384
+ECM0487,2024-12-24,Set Peralatan Masak,Rumah Tangga,339000.0,5.0,Denpasar,User5312
+ECM0428,2024-06-01,Teh Celup Premium,Makanan,24000.0,1.0,Bandung,User2485
+ECM0369,2024-08-07,Topi Baseball,Fashion,61000.0,3.0,Surabaya,User7710
+ECM0209,2024-11-17,Keyboard Mekanik,Elektronik,450000.0,3.0,Denpasar,User7780
+ECM0065,2024-10-09,Topi Baseball,Fashion,37000.0,3.0,Bandung,User3290
+ECM0011,2024-09-26,Mouse Wireless,Elektronik,124000.0,4.0,Kediri,User4073
+ECM0456,2024-08-05,Charger Fast Charging,Elektronik,49000.0,2.0,Malang,User5852
+ECM0112,2024-12-17,Hoodie Unisex,Fashion,145000.0,1.0,Palembang,User9504
+ECM0471,2024-08-05,Topi Baseball,Fashion,39000.0,5.0,Bandung,User6087
+ECM0446,2024-09-02,Topi Baseball,Fashion,44000.0,4.0,Malang,User3311
+ECM0395,2024-07-05,Topi Baseball,Fashion,53000.0,4.0,Surabaya,User7583
+ECM0094,2024-08-08,Sandal Jepit,Fashion,,2.0,Surabaya,User3472
+ECM0480,2024-11-07,Keyboard Mekanik,Elektronik,536000.0,1.0,Balikpapan,User5270
+ECM0294,2024-10-13,Topi Baseball,Fashion,54000.0,1.0,Denpasar,User5691
+ECM0262,2024-09-19,Sandal Jepit,Fashion,39000.0,2.0,Palembang,User8193
+ECM0101,2024-08-13,Sandal Jepit,Fashion,33000.0,2.0,Malang,User2247
+ECM0168,2024-06-09,Minyak Zaitun 250ml,Makanan,107000.0,3.0,Surabaya,User6645
+ECM0066,2024-07-18,Set Peralatan Masak,Rumah Tangga,316000.0,2.0,Surabaya,User7267
+ECM0315,2024-08-11,Case HP,Elektronik,36000.0,4.0,Palembang,User9375
+ECM0242,2024-11-25,Minyak Zaitun 250ml,Makanan,106000.0,2.0,Malang,User4240
+ECM0361,2024-11-20,Lampu Meja LED,Rumah Tangga,75000.0,4.0,Jakarta,User6455
+ECM0416,2024-07-09,Charger Fast Charging,Elektronik,109000.0,2.0,Balikpapan,User9265
+ECM0007,2024-10-11,Charger Fast Charging,Elektronik,47000.0,3.0,Denpasar,User2115
+ECM0150,2024-10-08,Teh Celup Premium,Makanan,35000.0,4.0,Kediri,User1226
+ECM0485,2024-10-09,Minyak Zaitun 250ml,Makanan,110000.0,4.0,Palembang,User5423
+ECM0399,2024-06-21,Mouse Wireless,Elektronik,,1.0,Palembang,User6478
+ECM0368,2024-12-17,Topi Baseball,Fashion,68000.0,1.0,Palembang,User6761
+ECM0478,2024-12-14,Teh Celup Premium,Makanan,30000.0,4.0,Palembang,User2616
+ECM0363,2025-01-10,Keyboard Mekanik,Elektronik,268000.0,5.0,Palembang,User2442
+ECM0149,2024-08-08,Hoodie Unisex,Fashion,185000.0,,Balikpapan,User8111
+ECM0401,2024-08-12,Topi Baseball,Fashion,40000.0,2.0,Balikpapan,User8027
+ECM0431,2024-12-05,Hoodie Unisex,Fashion,103000.0,5.0,Jakarta,User9243
+ECM0253,2024-12-16,Mouse Wireless,Elektronik,82000.0,2.0,Surabaya,User2255
+ECM0322,2024-07-24,Minyak Zaitun 250ml,Makanan,92000.0,3.0,Bandung,User4684
+ECM0186,2024-08-30,Teh Celup Premium,Makanan,21000.0,3.0,Kediri,User1419
+ECM0142,2025-01-16,Mouse Wireless,Elektronik,142000.0,4.0,Surabaya,User1532
+ECM0133,2024-07-18,Lampu Meja LED,Rumah Tangga,,3.0,Denpasar,User5836
+ECM0357,2024-08-02,Teh Celup Premium,Makanan,32000.0,2.0,Surabaya,User9374
+ECM0119,2024-10-16,Charger Fast Charging,Elektronik,101000.0,2.0,Palembang,User2203
+ECM0245,2024-07-27,Case HP,Elektronik,35000.0,1.0,Kediri,User9881
+ECM0288,2025-01-26,Set Peralatan Masak,Rumah Tangga,338000.0,4.0,Bandung,User1086
+ECM0375,2024-10-18,Sandal Jepit,Fashion,53000.0,2.0,Jakarta,User3935
+ECM0120,2024-12-21,Keyboard Mekanik,Elektronik,385000.0,4.0,Kediri,User1880
+ECM0488,2025-01-13,Lampu Meja LED,Rumah Tangga,64000.0,1.0,Surabaya,User5275
+ECM0039,2025-01-18,Charger Fast Charging,Elektronik,,3.0,Malang,User3310
+ECM0438,2024-06-10,Keyboard Mekanik,Elektronik,393000.0,4.0,Bandung,User2151
+ECM0499,2024-12-30,Set Peralatan Masak,Rumah Tangga,251000.0,1.0,Malang,User5557
+ECM0307,2024-06-19,Sandal Jepit,Fashion,28000.0,3.0,Jakarta,User7906
+ECM0085,2024-07-22,Case HP,Elektronik,48000.0,3.0,Palembang,User3768
+ECM0225,2024-08-08,Charger Fast Charging,Elektronik,94000.0,5.0,Palembang,User8765
+ECM0020,2024-07-19,Charger Fast Charging,Elektronik,84000.0,,Surabaya,User3623
+ECM0073,2024-06-05,Charger Fast Charging,Elektronik,109000.0,5.0,Denpasar,User1834
+ECM0076,2024-10-29,Teh Celup Premium,Makanan,36000.0,5.0,Palembang,User9338
+ECM0381,2024-08-31,Keyboard Mekanik,Elektronik,269000.0,2.0,Bandung,User3070
+ECM0362,2024-07-28,Hoodie Unisex,Fashion,119000.0,1.0,Balikpapan,User5476
+ECM0486,2025-01-18,Minyak Zaitun 250ml,Makanan,76000.0,3.0,Jakarta,User4330
+ECM0418,2024-07-17,Minyak Zaitun 250ml,Makanan,64000.0,1.0,Balikpapan,User3477
+ECM0265,2024-07-22,Keyboard Mekanik,Elektronik,503000.0,3.0,Surabaya,User7882
+ECM0041,2024-07-10,Minyak Zaitun 250ml,Makanan,127000.0,3.0,Malang,User2278
+ECM0436,2025-01-23,Granola Bar,Makanan,,4.0,Bandung,User6926
+ECM0111,2024-12-31,Keyboard Mekanik,Elektronik,396000.0,1.0,Palembang,User9900
+ECM0304,2024-12-06,Granola Bar,Makanan,25000.0,1.0,Surabaya,User4426
+ECM0463,2024-07-29,Topi Baseball,Fashion,77000.0,2.0,Bandung,User4196
+ECM0049,2024-08-02,Case HP,Elektronik,57000.0,2.0,Kediri,User2673
+ECM0019,2024-08-18,Mouse Wireless,Elektronik,90000.0,2.0,Bandung,User1807
+ECM0044,2024-06-28,Keyboard Mekanik,Elektronik,299000.0,5.0,Kediri,User4178
+ECM0274,2025-01-13,Topi Baseball,Fashion,36000.0,1.0,Palembang,User5549
+ECM0423,2024-06-18,Sandal Jepit,Fashion,49000.0,3.0,Jakarta,User7991
+ECM0091,2024-08-10,Lampu Meja LED,Rumah Tangga,94000.0,3.0,Denpasar,User6382
+ECM0374,2024-11-18,Teh Celup Premium,Makanan,29000.0,2.0,Kediri,User7923
+ECM0212,2024-12-30,Sandal Jepit,Fashion,21000.0,2.0,Bandung,User9289
+ECM0276,2024-07-09,Teh Celup Premium,Makanan,35000.0,5.0,Bandung,User3695
+ECM0335,2024-12-28,Minyak Zaitun 250ml,Makanan,,2.0,Malang,User1310
+ECM0161,2024-07-25,Charger Fast Charging,Elektronik,60000.0,5.0,Jakarta,User4044
+ECM0115,2024-06-15,Minyak Zaitun 250ml,Makanan,78000.0,5.0,Denpasar,User4298
+ECM0329,2024-09-11,Granola Bar,Makanan,30000.0,2.0,Surabaya,User9972
+ECM0069,2024-08-09,Minyak Zaitun 250ml,Makanan,114000.0,1.0,Denpasar,User6287
+ECM0216,2024-12-28,Charger Fast Charging,Elektronik,104000.0,5.0,Bandung,User9183
+ECM0393,2024-07-10,Set Peralatan Masak,Rumah Tangga,260000.0,1.0,Surabaya,User8944
+ECM0132,2024-11-11,Minyak Zaitun 250ml,Makanan,97000.0,5.0,Palembang,User9176
+ECM0002,2024-08-03,Topi Baseball,Fashion,57000.0,4.0,Bandung,User5558
+ECM0188,2024-10-09,Teh Celup Premium,Makanan,38000.0,2.0,Palembang,User3181
+ECM0228,2025-01-25,Topi Baseball,Fashion,42000.0,5.0,Jakarta,User2595
+ECM0179,2025-01-14,Hoodie Unisex,Fashion,,1.0,Kediri,User8460
+ECM0328,2024-09-01,Granola Bar,Makanan,24000.0,3.0,Jakarta,User4936
+ECM0182,2024-10-19,Case HP,Elektronik,21000.0,5.0,Kediri,User2571
+ECM0134,2024-06-26,Teh Celup Premium,Makanan,38000.0,3.0,Bandung,User4507
+ECM0224,2024-11-19,Mouse Wireless,Elektronik,93000.0,1.0,Balikpapan,User8434
+ECM0249,2024-11-23,Case HP,Elektronik,41000.0,1.0,Denpasar,User8309
+ECM0284,2024-12-18,Mouse Wireless,Elektronik,100000.0,2.0,Palembang,User7385
+ECM0169,2024-09-28,Charger Fast Charging,Elektronik,89000.0,4.0,Kediri,User8461
+ECM0449,2024-11-25,Hoodie Unisex,Fashion,210000.0,5.0,Kediri,User6843
+ECM0336,2025-01-26,Teh Celup Premium,Makanan,24000.0,4.0,Malang,User5991
+ECM0240,2024-12-10,Topi Baseball,Fashion,37000.0,2.0,Balikpapan,User6245
+ECM0264,2024-06-23,Topi Baseball,Fashion,39000.0,3.0,Kediri,User3716
+ECM0143,2024-09-08,Minyak Zaitun 250ml,Makanan,101000.0,1.0,Balikpapan,User4933
+ECM0246,2024-07-10,Charger Fast Charging,Elektronik,77000.0,,Surabaya,User8209
+ECM0301,2024-07-19,Set Peralatan Masak,Rumah Tangga,262000.0,3.0,Denpasar,User8436
+ECM0028,2024-11-05,Set Peralatan Masak,Rumah Tangga,159000.0,1.0,Bandung,User2200
+ECM0442,2024-06-20,Mouse Wireless,Elektronik,62000.0,1.0,Kediri,User9453
+ECM0139,2024-12-21,Topi Baseball,Fashion,38000.0,1.0,Balikpapan,User6684
+ECM0364,2024-12-07,Charger Fast Charging,Elektronik,58000.0,4.0,Palembang,User9351
+ECM0090,2024-08-17,Case HP,Elektronik,54000.0,3.0,Jakarta,User8077
+ECM0476,2025-01-17,Minyak Zaitun 250ml,Makanan,82000.0,1.0,Kediri,User3813
+ECM0412,2024-08-12,Lampu Meja LED,Rumah Tangga,56000.0,5.0,Bandung,User7128
+ECM0024,2025-01-01,Keyboard Mekanik,Elektronik,470000.0,5.0,Denpasar,User2528
+ECM0097,2024-11-27,Topi Baseball,Fashion,38000.0,1.0,Denpasar,User1722
+ECM0080,2024-09-09,Case HP,Elektronik,50000.0,4.0,Denpasar,User1184
+ECM0490,2024-06-12,Minyak Zaitun 250ml,Makanan,65000.0,4.0,Bandung,User9298
+ECM0193,2024-07-30,Teh Celup Premium,Makanan,32000.0,1.0,Balikpapan,User5648
+ECM0243,2024-07-11,Granola Bar,Makanan,19000.0,4.0,Balikpapan,User3295
+ECM0371,2024-08-19,Lampu Meja LED,Rumah Tangga,,3.0,Jakarta,User1715
+ECM0172,2024-09-20,Keyboard Mekanik,Elektronik,,4.0,Kediri,User7142
+ECM0327,2024-12-26,Hoodie Unisex,Fashion,216000.0,3.0,Surabaya,User6607
+ECM0068,2024-10-07,Teh Celup Premium,Makanan,23000.0,2.0,Balikpapan,User9976
+ECM0146,2024-10-16,Topi Baseball,Fashion,50000.0,3.0,Malang,User1522
+ECM0409,2024-11-17,Granola Bar,Makanan,18000.0,1.0,Kediri,User7846
+ECM0421,2024-11-14,Granola Bar,Makanan,30000.0,3.0,Jakarta,User1386
+ECM0082,2024-06-23,Charger Fast Charging,Elektronik,65000.0,2.0,Balikpapan,User5452
+ECM0469,2025-01-14,Case HP,Elektronik,42000.0,3.0,Bandung,User5400
+ECM0232,2024-12-19,Sandal Jepit,Fashion,46000.0,2.0,Bandung,User7206
+ECM0038,2024-10-14,Keyboard Mekanik,Elektronik,480000.0,2.0,Palembang,User5960
+ECM0331,2024-09-06,Lampu Meja LED,Rumah Tangga,127000.0,3.0,Jakarta,User9304
+ECM0386,2025-01-21,Set Peralatan Masak,Rumah Tangga,247000.0,4.0,Surabaya,User2583
+ECM0141,2024-09-21,Mouse Wireless,Elektronik,124000.0,5.0,Palembang,User3901
+ECM0035,2024-11-29,Set Peralatan Masak,Rumah Tangga,373000.0,5.0,Denpasar,User3949
+ECM0389,2024-06-07,Set Peralatan Masak,Rumah Tangga,174000.0,5.0,Balikpapan,User8044
+ECM0126,2025-01-24,Case HP,Elektronik,32000.0,3.0,Surabaya,User9739
+ECM0237,2024-09-28,Case HP,Elektronik,37000.0,2.0,Denpasar,User5246
+ECM0302,2024-11-02,Charger Fast Charging,Elektronik,94000.0,4.0,Bandung,User9578
+ECM0417,2024-12-07,Granola Bar,Makanan,20000.0,5.0,Bandung,User5087
+ECM0254,2024-07-25,Mouse Wireless,Elektronik,62000.0,5.0,Kediri,User3995
+ECM0177,2024-12-03,Case HP,Elektronik,42000.0,5.0,Bandung,User6634
+ECM0093,2024-06-01,Lampu Meja LED,Rumah Tangga,60000.0,2.0,Denpasar,User2626
+ECM0110,2024-12-08,Topi Baseball,Fashion,69000.0,3.0,Bandung,User8977
+ECM0281,2024-07-23,Case HP,Elektronik,24000.0,,Balikpapan,User4162
+ECM0339,2024-09-22,Minyak Zaitun 250ml,Makanan,107000.0,3.0,Palembang,User4286
+ECM0072,2024-11-15,Lampu Meja LED,Rumah Tangga,108000.0,3.0,Kediri,User5847
+ECM0162,2024-09-01,Sandal Jepit,Fashion,21000.0,5.0,Malang,User8526
+ECM0333,2024-07-07,Set Peralatan Masak,Rumah Tangga,187000.0,3.0,Palembang,User7060
+ECM0270,2024-12-09,Teh Celup Premium,Makanan,30000.0,5.0,Denpasar,User9154
+ECM0440,2025-01-11,Charger Fast Charging,Elektronik,47000.0,,Palembang,User7836
+ECM0338,2024-10-20,Lampu Meja LED,Rumah Tangga,100000.0,1.0,Surabaya,User3297
+ECM0092,2025-01-25,Mouse Wireless,Elektronik,,5.0,Palembang,User8438
+ECM0081,2024-11-17,Hoodie Unisex,Fashion,118000.0,5.0,Bandung,User7333
+ECM0192,2024-10-27,Hoodie Unisex,Fashion,204000.0,1.0,Malang,User6536
+ECM0410,2024-11-10,Minyak Zaitun 250ml,Makanan,80000.0,4.0,Jakarta,User6216

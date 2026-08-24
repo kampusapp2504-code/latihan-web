@@ -1,0 +1,613 @@
+order_id,date,product,category,price,quantity,city,customer
+ORD0293,2024-09-19,Madu Hutan 250ml,Makanan,89000.0,4.0,Surabaya,Cust6305
+ORD0516,2024-03-19,Sepatu Sneakers,Fashion,261000.0,5.0,Bandung,Cust2528
+ORD0405,2024-12-03,Smartwatch,Elektronik,546000.0,3.0,Jakarta,Cust9290
+ORD0329,2024-02-10,Sepatu Sneakers,Fashion,194000.0,5.0,Kediri,Cust7397
+ORD0218,2024-12-08,Sepatu Sneakers,Fashion,254000.0,3.0,Kediri,Cust1846
+ORD0054,2024-06-11,Smartwatch,Elektronik,494000.0,6.0,Makassar,Cust1361
+ORD0559,2024-03-09,Kopi Bubuk 200g,Makanan,32000.0,4.0,Makassar,Cust4032
+ORD0194,2024-11-27,Power Bank 10000mAh,Elektronik,,7.0,Medan,Cust9860
+ORD0593,2024-10-17,Kemeja Flanel,Fashion,86000.0,2.0,,Cust8031
+ORD0408,2024-02-25,Tas Ransel,Fashion,,3.0,Semarang,Cust8668
+ORD0274,2024-11-02,Madu Hutan 250ml,Makanan,82000.0,3.0,Kediri,Cust2375
+ORD0116,2024-04-04,Kabel Data USB-C,Elektronik,23000.0,3.0,Surabaya,Cust1223
+ORD0111,2024-11-27,Kemeja Flanel,Fashion,116000.0,4.0,Kediri,Cust3744
+ORD0522,2024-06-02,Tas Ransel,Fashion,201000.0,7.0,Makassar,Cust3117
+ORD0521,2024-02-21,Power Bank 10000mAh,Elektronik,209000.0,7.0,Makassar,Cust3694
+ORD0459,2024-11-29,Kopi Bubuk 200g,Makanan,29000.0,4.0,Bandung,Cust3347
+ORD0519,2024-03-11,Smartwatch,Elektronik,251000.0,5.0,Semarang,Cust7658
+ORD0290,2024-10-01,Smartwatch,Elektronik,597000.0,4.0,Medan,Cust6939
+ORD0155,2024-06-02,Smartwatch,Elektronik,558000.0,3.0,Kediri,Cust8985
+ORD0370,2024-10-11,Rak Buku Mini,Rumah Tangga,188000.0,6.0,Semarang,Cust2547
+ORD0173,2024-01-19,Rak Buku Mini,Rumah Tangga,176000.0,3.0,Jakarta,Cust8667
+ORD0472,2024-07-06,Kopi Bubuk 200g,Makanan,54000.0,1.0,Kediri,Cust5301
+ORD0584,2024-09-04,Kaos Polos,Fashion,88000.0,2.0,Yogyakarta,Cust9296
+ORD0507,2024-01-30,Kabel Data USB-C,Elektronik,23000.0,4.0,Makassar,Cust7393
+ORD0577,2024-03-25,Keripik Singkong,Makanan,22000.0,2.0,Makassar,Cust4668
+ORD0386,2024-02-01,Sepatu Sneakers,Fashion,214000.0,4.0,Yogyakarta,Cust6191
+ORD0557,2024-11-29,Rak Buku Mini,Rumah Tangga,181000.0,6.0,Yogyakarta,Cust8182
+ORD0250,2024-07-09,Kaos Polos,Fashion,72000.0,3.0,Medan,Cust2487
+ORD0253,2024-05-15,Tas Ransel,Fashion,210000.0,3.0,Makassar,Cust8516
+ORD0341,2024-11-16,Botol Minum,Rumah Tangga,30000.0,2.0,Medan,Cust9240
+ORD0388,2024-07-12,Kopi Bubuk 200g,Makanan,54000.0,3.0,Kediri,Cust5442
+ORD0102,2024-12-09,Tas Ransel,Fashion,127000.0,2.0,Yogyakarta,Cust1401
+ORD0338,2024-12-07,Headset Bluetooth,Elektronik,269000.0,7.0,Makassar,Cust4749
+ORD0554,2024-06-03,Headset Bluetooth,Elektronik,254000.0,5.0,Bandung,Cust2060
+ORD0330,2024-02-26,Kabel Data USB-C,Elektronik,35000.0,5.0,Surabaya,Cust4811
+ORD0110,2024-09-08,Wajan Anti Lengket,Rumah Tangga,108000.0,4.0,Makassar,Cust8667
+ORD0147,2024-10-21,Kaos Polos,Fashion,65000.0,6.0,Kediri,Cust5801
+ORD0534,2024-02-19,Kemeja Flanel,Fashion,144000.0,6.0,Semarang,Cust9845
+ORD0321,2024-05-02,Headset Bluetooth,Elektronik,185000.0,1.0,Jakarta,Cust5089
+ORD0245,2024-11-15,Botol Minum,Rumah Tangga,32000.0,6.0,,Cust7953
+ORD0430,2024-05-31,Rak Buku Mini,Rumah Tangga,134000.0,2.0,Makassar,Cust9768
+ORD0418,2024-08-20,Sepatu Sneakers,Fashion,246000.0,2.0,Medan,Cust9838
+ORD0510,2024-12-27,Kemeja Flanel,Fashion,135000.0,5.0,Makassar,Cust1977
+ORD0569,2024-03-21,Botol Minum,Rumah Tangga,57000.0,1.0,Kediri,Cust9259
+ORD0579,2024-09-28,Keripik Singkong,Makanan,13000.0,5.0,Bandung,Cust9351
+ORD0143,2024-11-07,Kemeja Flanel,Fashion,132000.0,3.0,Makassar,Cust9121
+ORD0335,2024-06-17,Smartwatch,Elektronik,362000.0,3.0,Bandung,Cust2600
+ORD0590,2024-04-22,Kopi Bubuk 200g,Makanan,43000.0,3.0,Yogyakarta,Cust6745
+ORD0160,2024-01-10,Rak Buku Mini,Rumah Tangga,154000.0,5.0,Semarang,Cust3694
+ORD0241,2024-04-04,Sepatu Sneakers,Fashion,161000.0,4.0,Kediri,Cust2151
+ORD0562,2024-08-28,Kaos Polos,Fashion,60000.0,3.0,Semarang,Cust5264
+ORD0169,2024-06-07,Headset Bluetooth,Elektronik,260000.0,4.0,Yogyakarta,Cust2256
+ORD0135,2024-09-03,Kopi Bubuk 200g,Makanan,36000.0,1.0,Yogyakarta,Cust7863
+ORD0284,2024-09-19,Smartwatch,Elektronik,361000.0,3.0,Semarang,Cust5149
+ORD0271,2024-06-18,Headset Bluetooth,Elektronik,284000.0,5.0,Jakarta,Cust9737
+ORD0281,2024-06-16,Kemeja Flanel,Fashion,167000.0,1.0,Kediri,Cust8180
+ORD0553,2024-10-26,Kopi Bubuk 200g,Makanan,54000.0,6.0,Jakarta,Cust2451
+ORD0071,2024-06-05,Kopi Bubuk 200g,Makanan,27000.0,3.0,Medan,Cust8069
+ORD0099,2024-05-23,Botol Minum,Rumah Tangga,40000.0,4.0,Makassar,Cust3957
+ORD0100,2024-01-16,Sepatu Sneakers,Fashion,166000.0,6.0,Makassar,Cust4903
+ORD0504,2024-01-09,Keripik Singkong,Makanan,18000.0,5.0,Semarang,Cust8803
+ORD0501,2024-06-09,Sepatu Sneakers,Fashion,223000.0,1.0,Jakarta,Cust7308
+ORD0201,2024-04-25,Power Bank 10000mAh,Elektronik,129000.0,6.0,Makassar,Cust2117
+ORD0325,2024-06-03,Madu Hutan 250ml,Makanan,92000.0,2.0,Jakarta,Cust4609
+ORD0371,2024-06-20,Headset Bluetooth,Elektronik,271000.0,7.0,Jakarta,Cust8469
+ORD0014,2024-12-01,Rak Buku Mini,Rumah Tangga,166000.0,4.0,Makassar,Cust2188
+ORD0565,2024-05-19,Keripik Singkong,Makanan,18000.0,6.0,Medan,Cust6489
+ORD0061,2024-11-18,Keripik Singkong,Makanan,12000.0,1.0,Surabaya,Cust5129
+ORD0259,2024-09-16,Tas Ransel,Fashion,127000.0,2.0,Yogyakarta,Cust2206
+ORD0273,2024-10-25,Tas Ransel,Fashion,225000.0,7.0,Surabaya,Cust8351
+ORD0246,2024-08-12,Sepatu Sneakers,Fashion,330000.0,1.0,Yogyakarta,Cust9840
+ORD0237,2024-12-14,Wajan Anti Lengket,Rumah Tangga,73000.0,3.0,Jakarta,Cust7544
+ORD0004,2024-01-23,Smartwatch,Elektronik,473000.0,2.0,Bandung,Cust2257
+ORD0411,2024-05-16,Tas Ransel,Fashion,232000.0,7.0,Yogyakarta,Cust8657
+ORD0573,2024-01-19,Kemeja Flanel,Fashion,121000.0,,Makassar,Cust4238
+ORD0053,2024-10-08,Power Bank 10000mAh,Elektronik,215000.0,7.0,Jakarta,Cust8614
+ORD0511,2024-10-16,Madu Hutan 250ml,Makanan,80000.0,2.0,Surabaya,Cust1618
+ORD0324,2024-04-14,Keripik Singkong,Makanan,17000.0,,Yogyakarta,Cust2733
+ORD0051,2024-03-28,Rak Buku Mini,Rumah Tangga,197000.0,6.0,Yogyakarta,Cust3589
+ORD0483,2024-09-25,Kemeja Flanel,Fashion,116000.0,4.0,Jakarta,Cust5408
+ORD0133,2024-10-27,Sepatu Sneakers,Fashion,203000.0,7.0,Kediri,Cust3145
+ORD0260,2024-09-29,Botol Minum,Rumah Tangga,54000.0,5.0,Makassar,Cust4053
+ORD0359,2024-03-21,Sepatu Sneakers,Fashion,,2.0,Medan,Cust5257
+ORD0249,2024-11-04,Kopi Bubuk 200g,Makanan,37000.0,1.0,Makassar,Cust7685
+ORD0502,2024-11-24,Wajan Anti Lengket,Rumah Tangga,94000.0,7.0,Bandung,Cust3123
+ORD0031,2024-12-07,Smartwatch,Elektronik,586000.0,2.0,Jakarta,Cust5994
+ORD0142,2024-05-31,Kemeja Flanel,Fashion,147000.0,2.0,Surabaya,Cust8674
+ORD0295,2024-05-04,Kabel Data USB-C,Elektronik,19000.0,5.0,Kediri,Cust7268
+ORD0368,2024-11-04,Headset Bluetooth,Elektronik,,5.0,Semarang,Cust1594
+ORD0023,2024-10-05,Tas Ransel,Fashion,201000.0,,Semarang,Cust9280
+ORD0578,2024-06-10,Kabel Data USB-C,Elektronik,15000.0,3.0,Yogyakarta,Cust7389
+ORD0193,2024-12-01,Botol Minum,Rumah Tangga,31000.0,2.0,Surabaya,Cust6011
+ORD0454,2024-11-10,Kaos Polos,Fashion,46000.0,3.0,Surabaya,Cust2852
+ORD0052,2024-09-01,Tas Ransel,Fashion,227000.0,2.0,Jakarta,Cust8207
+ORD0141,2024-11-22,Madu Hutan 250ml,Makanan,82000.0,3.0,Semarang,Cust6494
+ORD0188,2024-09-14,Power Bank 10000mAh,Elektronik,94000.0,2.0,Jakarta,Cust6580
+ORD0391,2024-03-11,Rak Buku Mini,Rumah Tangga,162000.0,3.0,Surabaya,Cust9835
+ORD0453,2024-08-11,Smartwatch,Elektronik,317000.0,,Makassar,Cust1780
+ORD0531,2024-05-15,Botol Minum,Rumah Tangga,33000.0,6.0,Surabaya,Cust3128
+ORD0432,2024-05-11,Rak Buku Mini,Rumah Tangga,185000.0,7.0,Semarang,Cust4860
+ORD0257,2024-11-04,Wajan Anti Lengket,Rumah Tangga,100000.0,2.0,Surabaya,Cust6558
+ORD0384,2024-02-22,Kemeja Flanel,Fashion,161000.0,5.0,Medan,Cust9969
+ORD0567,2024-05-02,Kemeja Flanel,Fashion,104000.0,6.0,Surabaya,Cust3118
+ORD0506,2024-07-03,Smartwatch,Elektronik,561000.0,6.0,Yogyakarta,Cust8122
+ORD0230,2024-10-20,Tas Ransel,Fashion,246000.0,7.0,Kediri,Cust7473
+ORD0598,2024-08-25,Rak Buku Mini,Rumah Tangga,113000.0,,Semarang,Cust9187
+ORD0379,2024-08-10,Power Bank 10000mAh,Elektronik,134000.0,2.0,Yogyakarta,Cust4767
+ORD0437,2024-11-01,Kabel Data USB-C,Elektronik,22000.0,7.0,Makassar,Cust9203
+ORD0317,2024-08-23,Rak Buku Mini,Rumah Tangga,166000.0,2.0,Medan,Cust6703
+ORD0098,2024-08-25,Wajan Anti Lengket,Rumah Tangga,137000.0,6.0,Yogyakarta,Cust2274
+ORD0451,2024-02-02,Madu Hutan 250ml,Makanan,,3.0,Jakarta,Cust7513
+ORD0282,2024-10-14,Smartwatch,Elektronik,295000.0,4.0,Surabaya,Cust6689
+ORD0215,2024-10-03,Rak Buku Mini,Rumah Tangga,173000.0,4.0,Bandung,Cust7457
+ORD0156,2024-07-02,Wajan Anti Lengket,Rumah Tangga,146000.0,7.0,Makassar,Cust5867
+ORD0056,2024-07-19,Kaos Polos,Fashion,67000.0,4.0,Semarang,Cust6669
+ORD0024,2024-03-27,Keripik Singkong,Makanan,22000.0,4.0,Kediri,Cust6395
+ORD0205,2024-01-07,Smartwatch,Elektronik,342000.0,1.0,Yogyakarta,Cust5979
+ORD0343,2024-01-20,Botol Minum,Rumah Tangga,31000.0,1.0,Medan,Cust3040
+ORD0564,2024-02-05,Tas Ransel,Fashion,161000.0,5.0,Yogyakarta,Cust3556
+ORD0243,2024-06-29,Sepatu Sneakers,Fashion,198000.0,5.0,Semarang,Cust8951
+ORD0240,2024-06-23,Botol Minum,Rumah Tangga,28000.0,7.0,Surabaya,Cust5697
+ORD0389,2024-05-18,Keripik Singkong,Makanan,15000.0,7.0,Yogyakarta,Cust8246
+ORD0372,2024-06-22,Wajan Anti Lengket,Rumah Tangga,108000.0,6.0,Yogyakarta,Cust1535
+ORD0361,2024-07-20,Kopi Bubuk 200g,Makanan,25000.0,4.0,Semarang,Cust4455
+ORD0431,2024-08-25,Sepatu Sneakers,Fashion,199000.0,1.0,Medan,Cust9915
+ORD0180,2024-06-19,Kabel Data USB-C,Elektronik,25000.0,4.0,Makassar,Cust8569
+ORD0047,2024-02-22,Smartwatch,Elektronik,336000.0,2.0,Kediri,Cust8688
+ORD0440,2024-09-15,Power Bank 10000mAh,Elektronik,209000.0,7.0,Medan,Cust4574
+ORD0471,2024-06-08,Rak Buku Mini,Rumah Tangga,93000.0,4.0,Yogyakarta,Cust3491
+ORD0591,2024-09-17,Kopi Bubuk 200g,Makanan,38000.0,4.0,Yogyakarta,Cust4730
+ORD0083,2024-04-24,Tas Ransel,Fashion,140000.0,6.0,Surabaya,Cust5673
+ORD0302,2024-04-12,Kopi Bubuk 200g,Makanan,33000.0,6.0,Surabaya,Cust3551
+ORD0412,2024-09-02,Kemeja Flanel,Fashion,,1.0,Bandung,Cust2445
+ORD0436,2024-05-21,Sepatu Sneakers,Fashion,210000.0,4.0,Yogyakarta,Cust1405
+ORD0039,2024-10-28,Kemeja Flanel,Fashion,89000.0,4.0,Semarang,Cust4881
+ORD0380,2024-01-12,Kemeja Flanel,Fashion,100000.0,6.0,Yogyakarta,Cust9366
+ORD0011,2024-10-20,Kabel Data USB-C,Elektronik,27000.0,5.0,Surabaya,Cust5976
+ORD0465,2024-07-16,Kaos Polos,Fashion,59000.0,6.0,Jakarta,Cust4806
+ORD0033,2024-12-07,Sepatu Sneakers,Fashion,185000.0,4.0,Yogyakarta,Cust4246
+ORD0512,2024-08-31,Rak Buku Mini,Rumah Tangga,183000.0,6.0,Yogyakarta,Cust8855
+ORD0529,2024-07-08,Keripik Singkong,Makanan,14000.0,2.0,Yogyakarta,Cust7559
+ORD0026,2024-06-27,Wajan Anti Lengket,Rumah Tangga,79000.0,6.0,Jakarta,Cust6920
+ORD0202,2024-03-27,Keripik Singkong,Makanan,23000.0,2.0,Medan,Cust2134
+ORD0543,2024-03-23,Tas Ransel,Fashion,177000.0,3.0,Yogyakarta,Cust4625
+ORD0301,2024-02-17,Power Bank 10000mAh,Elektronik,208000.0,5.0,Surabaya,Cust8839
+ORD0540,2024-07-15,Kaos Polos,Fashion,80000.0,2.0,Yogyakarta,Cust8223
+ORD0434,2024-06-23,Sepatu Sneakers,Fashion,256000.0,3.0,Yogyakarta,Cust9627
+ORD0203,2024-09-09,Smartwatch,Elektronik,521000.0,2.0,Semarang,Cust1541
+ORD0090,2024-08-31,Kopi Bubuk 200g,Makanan,29000.0,2.0,Medan,Cust2076
+ORD0066,2024-06-01,Headset Bluetooth,Elektronik,290000.0,4.0,Bandung,Cust6201
+ORD0396,2024-12-19,Keripik Singkong,Makanan,16000.0,2.0,Kediri,Cust6110
+ORD0328,2024-06-22,Kaos Polos,Fashion,80000.0,2.0,Bandung,Cust8962
+ORD0558,2024-04-15,Keripik Singkong,Makanan,15000.0,6.0,Semarang,Cust7101
+ORD0279,2024-08-21,Kaos Polos,Fashion,68000.0,4.0,Bandung,Cust7784
+ORD0552,2024-03-09,Power Bank 10000mAh,Elektronik,147000.0,1.0,Yogyakarta,Cust5746
+ORD0352,2024-08-16,Kaos Polos,Fashion,61000.0,3.0,Surabaya,Cust2875
+ORD0322,2024-03-26,Sepatu Sneakers,Fashion,309000.0,1.0,Makassar,Cust2244
+ORD0345,2024-08-26,Keripik Singkong,Makanan,13000.0,1.0,Bandung,Cust7719
+ORD0549,2024-08-13,Kabel Data USB-C,Elektronik,28000.0,3.0,Jakarta,Cust5838
+ORD0041,2024-12-01,Tas Ransel,Fashion,101000.0,3.0,Medan,Cust7643
+ORD0596,2024-11-17,Kopi Bubuk 200g,Makanan,45000.0,5.0,Makassar,Cust1699
+ORD0214,2024-07-13,Smartwatch,Elektronik,388000.0,6.0,Semarang,Cust7531
+ORD0306,2024-01-24,Sepatu Sneakers,Fashion,201000.0,3.0,Semarang,Cust3884
+ORD0426,2024-07-31,Tas Ransel,Fashion,192000.0,1.0,Jakarta,Cust5155
+ORD0378,2024-07-10,Rak Buku Mini,Rumah Tangga,129000.0,2.0,Jakarta,Cust4215
+ORD0222,2024-03-29,Smartwatch,Elektronik,550000.0,7.0,Yogyakarta,Cust2909
+ORD0057,2024-02-26,Kabel Data USB-C,Elektronik,17000.0,6.0,Kediri,Cust8319
+ORD0493,2024-02-16,Rak Buku Mini,Rumah Tangga,117000.0,3.0,Kediri,Cust7363
+ORD0072,2024-12-20,Tas Ransel,Fashion,191000.0,3.0,,Cust4705
+ORD0442,2024-10-15,Headset Bluetooth,Elektronik,294000.0,3.0,Bandung,Cust2704
+ORD0581,2024-03-14,Sepatu Sneakers,Fashion,162000.0,5.0,Bandung,Cust1155
+ORD0091,2024-12-15,Smartwatch,Elektronik,427000.0,3.0,Medan,Cust1689
+ORD0167,2024-07-24,Headset Bluetooth,Elektronik,204000.0,2.0,Surabaya,Cust3874
+ORD0294,2024-04-30,Headset Bluetooth,Elektronik,211000.0,6.0,Yogyakarta,Cust4773
+ORD0171,2024-03-30,Sepatu Sneakers,Fashion,208000.0,1.0,Jakarta,Cust6148
+ORD0055,2024-02-15,Smartwatch,Elektronik,409000.0,2.0,Jakarta,Cust7275
+ORD0381,2024-02-09,Kaos Polos,Fashion,76000.0,1.0,Makassar,Cust1457
+ORD0292,2024-05-23,Kemeja Flanel,Fashion,116000.0,6.0,Semarang,Cust4627
+ORD0223,2024-09-24,Wajan Anti Lengket,Rumah Tangga,97000.0,4.0,Yogyakarta,Cust6799
+ORD0067,2024-08-24,Keripik Singkong,Makanan,18000.0,5.0,Bandung,Cust4983
+ORD0262,2024-01-14,Tas Ransel,Fashion,136000.0,3.0,Surabaya,Cust9459
+ORD0417,2024-10-23,Madu Hutan 250ml,Makanan,50000.0,1.0,Kediri,Cust5547
+ORD0210,2024-12-22,Rak Buku Mini,Rumah Tangga,122000.0,3.0,Semarang,Cust8525
+ORD0499,2024-03-28,Keripik Singkong,Makanan,16000.0,3.0,Semarang,Cust9188
+ORD0244,2024-02-19,Wajan Anti Lengket,Rumah Tangga,78000.0,2.0,Bandung,Cust3652
+ORD0121,2024-10-04,Smartwatch,Elektronik,557000.0,4.0,Yogyakarta,Cust6857
+ORD0307,2024-05-25,Headset Bluetooth,Elektronik,249000.0,7.0,Medan,Cust4962
+ORD0337,2024-10-14,Madu Hutan 250ml,Makanan,83000.0,3.0,Bandung,Cust7130
+ORD0189,2024-07-26,Kemeja Flanel,Fashion,127000.0,2.0,Jakarta,Cust3076
+ORD0331,2024-07-01,Kabel Data USB-C,Elektronik,27000.0,4.0,Surabaya,Cust3655
+ORD0174,2024-10-10,Rak Buku Mini,Rumah Tangga,102000.0,5.0,Kediri,Cust1544
+ORD0473,2024-01-25,Smartwatch,Elektronik,572000.0,3.0,Yogyakarta,Cust7604
+ORD0530,2024-02-21,Keripik Singkong,Makanan,22000.0,6.0,Jakarta,Cust4556
+ORD0568,2024-12-07,Kemeja Flanel,Fashion,140000.0,3.0,Semarang,Cust8465
+ORD0424,2024-07-30,Botol Minum,Rumah Tangga,38000.0,4.0,Semarang,Cust2470
+ORD0119,2024-09-13,Kemeja Flanel,Fashion,121000.0,2.0,Surabaya,Cust5731
+ORD0120,2024-10-20,Sepatu Sneakers,Fashion,276000.0,5.0,Yogyakarta,Cust6582
+ORD0467,2024-06-07,Tas Ransel,Fashion,126000.0,5.0,Surabaya,Cust8271
+ORD0464,2024-11-06,Power Bank 10000mAh,Elektronik,146000.0,5.0,Yogyakarta,Cust4404
+ORD0221,2024-03-13,Sepatu Sneakers,Fashion,203000.0,2.0,Semarang,Cust9278
+ORD0139,2024-01-02,Headset Bluetooth,Elektronik,162000.0,7.0,Kediri,Cust9564
+ORD0146,2024-09-03,Kopi Bubuk 200g,Makanan,30000.0,5.0,Jakarta,Cust4077
+ORD0149,2024-07-28,Kopi Bubuk 200g,Makanan,41000.0,1.0,Jakarta,Cust2680
+ORD0323,2024-02-12,Botol Minum,Rumah Tangga,47000.0,6.0,Medan,Cust2037
+ORD0272,2024-08-29,Kaos Polos,Fashion,63000.0,4.0,Medan,Cust2684
+ORD0163,2024-10-16,Power Bank 10000mAh,Elektronik,97000.0,4.0,Bandung,Cust6264
+ORD0438,2024-01-02,Keripik Singkong,Makanan,13000.0,2.0,Jakarta,Cust8511
+ORD0115,2024-03-05,Kabel Data USB-C,Elektronik,30000.0,5.0,Kediri,Cust1076
+ORD0486,2024-03-22,Kemeja Flanel,Fashion,142000.0,1.0,Semarang,Cust9051
+ORD0151,2024-11-30,Kopi Bubuk 200g,Makanan,26000.0,3.0,Kediri,Cust2975
+ORD0514,2024-10-27,Kopi Bubuk 200g,Makanan,37000.0,6.0,Bandung,Cust6456
+ORD0490,2024-03-02,Botol Minum,Rumah Tangga,55000.0,6.0,Makassar,Cust7372
+ORD0393,2024-05-29,Power Bank 10000mAh,Elektronik,165000.0,3.0,Semarang,Cust4956
+ORD0032,2024-02-16,Kemeja Flanel,Fashion,123000.0,6.0,Kediri,Cust7566
+ORD0344,2024-11-06,Kabel Data USB-C,Elektronik,15000.0,1.0,Kediri,Cust7970
+ORD0285,2024-08-06,Smartwatch,Elektronik,356000.0,5.0,Semarang,Cust1655
+ORD0021,2024-03-03,Kabel Data USB-C,Elektronik,28000.0,5.0,Surabaya,Cust2163
+ORD0537,2024-02-05,Smartwatch,Elektronik,280000.0,6.0,Yogyakarta,Cust4726
+ORD0114,2024-12-30,Smartwatch,Elektronik,286000.0,1.0,Kediri,Cust9255
+ORD0360,2024-04-01,Rak Buku Mini,Rumah Tangga,162000.0,7.0,Bandung,Cust7611
+ORD0001,2024-02-19,Sepatu Sneakers,Fashion,273000.0,6.0,Semarang,Cust8433
+ORD0233,2024-08-07,Kaos Polos,Fashion,62000.0,3.0,Jakarta,Cust6181
+ORD0588,2024-07-11,Sepatu Sneakers,Fashion,164000.0,1.0,Surabaya,Cust8444
+ORD0447,2024-07-18,Headset Bluetooth,Elektronik,286000.0,6.0,Bandung,Cust4492
+ORD0236,2024-04-22,Rak Buku Mini,Rumah Tangga,104000.0,3.0,Surabaya,Cust7160
+ORD0447,2024-07-18,Headset Bluetooth,Elektronik,286000.0,6.0,Bandung,Cust4492
+ORD0533,2024-11-10,Tas Ransel,Fashion,165000.0,4.0,Semarang,Cust5737
+ORD0003,2024-05-20,Wajan Anti Lengket,Rumah Tangga,136000.0,4.0,Makassar,Cust7174
+ORD0405,2024-12-03,Smartwatch,Elektronik,546000.0,3.0,Jakarta,Cust9290
+ORD0059,2024-12-23,Rak Buku Mini,Rumah Tangga,100000.0,5.0,Medan,Cust7744
+ORD0462,2024-02-16,Sepatu Sneakers,Fashion,322000.0,5.0,Yogyakarta,Cust4130
+ORD0429,2024-12-11,Kaos Polos,Fashion,53000.0,1.0,Medan,Cust2788
+ORD0005,2024-06-01,Smartwatch,Elektronik,401000.0,4.0,Surabaya,Cust6436
+ORD0309,2024-08-10,Headset Bluetooth,Elektronik,246000.0,7.0,,Cust4262
+ORD0509,2024-07-26,Kemeja Flanel,Fashion,129000.0,3.0,Kediri,Cust7870
+ORD0075,2024-06-22,Wajan Anti Lengket,Rumah Tangga,93000.0,3.0,Kediri,Cust2331
+ORD0192,2024-12-29,Botol Minum,Rumah Tangga,26000.0,7.0,Makassar,Cust8698
+ORD0319,2024-03-20,Madu Hutan 250ml,Makanan,63000.0,3.0,Bandung,Cust6916
+ORD0550,2024-02-14,Wajan Anti Lengket,Rumah Tangga,130000.0,5.0,Surabaya,Cust8026
+ORD0491,2024-05-10,Madu Hutan 250ml,Makanan,86000.0,,Makassar,Cust8087
+ORD0081,2024-11-19,Madu Hutan 250ml,Makanan,85000.0,6.0,Medan,Cust2154
+ORD0358,2024-12-14,Keripik Singkong,Makanan,23000.0,7.0,Yogyakarta,Cust8854
+ORD0027,2024-10-09,Power Bank 10000mAh,Elektronik,184000.0,3.0,Yogyakarta,Cust2874
+ORD0402,2024-07-11,Rak Buku Mini,Rumah Tangga,,4.0,Bandung,Cust8440
+ORD0217,2024-10-17,Sepatu Sneakers,Fashion,338000.0,1.0,Jakarta,Cust4225
+ORD0478,2024-11-25,Kaos Polos,Fashion,74000.0,6.0,Makassar,Cust4853
+ORD0515,2024-05-05,Madu Hutan 250ml,Makanan,76000.0,7.0,Kediri,Cust9949
+ORD0385,2024-05-26,Kaos Polos,Fashion,64000.0,1.0,Surabaya,Cust1560
+ORD0058,2024-01-06,Tas Ransel,Fashion,210000.0,1.0,Surabaya,Cust3436
+ORD0320,2024-07-27,Rak Buku Mini,Rumah Tangga,179000.0,3.0,Makassar,Cust2509
+ORD0109,2024-11-04,Smartwatch,Elektronik,558000.0,3.0,Yogyakarta,Cust3979
+ORD0278,2024-03-17,Rak Buku Mini,Rumah Tangga,177000.0,6.0,Surabaya,Cust9313
+ORD0148,2024-10-09,Kemeja Flanel,Fashion,179000.0,5.0,Bandung,Cust4671
+ORD0229,2024-01-09,Kabel Data USB-C,Elektronik,25000.0,6.0,Kediri,Cust2892
+ORD0015,2024-02-04,Rak Buku Mini,Rumah Tangga,194000.0,5.0,Semarang,Cust6596
+ORD0175,2024-03-16,Wajan Anti Lengket,Rumah Tangga,141000.0,5.0,Kediri,Cust9793
+ORD0087,2024-04-24,Sepatu Sneakers,Fashion,247000.0,2.0,Semarang,Cust1598
+ORD0166,2024-04-07,Kopi Bubuk 200g,Makanan,49000.0,5.0,Yogyakarta,Cust8087
+ORD0532,2024-07-24,Tas Ransel,Fashion,128000.0,2.0,Surabaya,Cust4690
+ORD0060,2024-01-26,Wajan Anti Lengket,Rumah Tangga,118000.0,4.0,Jakarta,Cust6546
+ORD0526,2024-09-26,Headset Bluetooth,Elektronik,258000.0,5.0,Kediri,Cust8515
+ORD0165,2024-09-03,Power Bank 10000mAh,Elektronik,213000.0,7.0,Medan,Cust3300
+ORD0042,2024-05-22,Rak Buku Mini,Rumah Tangga,175000.0,4.0,Jakarta,Cust9972
+ORD0334,2024-02-13,Kopi Bubuk 200g,Makanan,,5.0,Semarang,Cust9789
+ORD0080,2024-12-17,Wajan Anti Lengket,Rumah Tangga,,4.0,Bandung,Cust5614
+ORD0355,2024-05-25,Madu Hutan 250ml,Makanan,47000.0,6.0,Jakarta,Cust7291
+ORD0029,2024-04-08,Kabel Data USB-C,Elektronik,35000.0,6.0,Semarang,Cust8156
+ORD0286,2024-07-10,Madu Hutan 250ml,Makanan,68000.0,5.0,Yogyakarta,Cust4084
+ORD0305,2024-08-10,Kabel Data USB-C,Elektronik,34000.0,7.0,Medan,Cust7709
+ORD0420,2024-02-16,Kabel Data USB-C,Elektronik,24000.0,1.0,Kediri,Cust2065
+ORD0314,2024-12-07,Kemeja Flanel,Fashion,172000.0,3.0,Makassar,Cust9802
+ORD0085,2024-11-03,Botol Minum,Rumah Tangga,22000.0,1.0,Makassar,Cust8396
+ORD0063,2024-12-23,Power Bank 10000mAh,Elektronik,190000.0,2.0,Kediri,Cust6327
+ORD0592,2024-03-02,Keripik Singkong,Makanan,17000.0,5.0,Bandung,Cust5208
+ORD0137,2024-10-19,Botol Minum,Rumah Tangga,49000.0,6.0,Kediri,Cust4435
+ORD0112,2024-05-20,Rak Buku Mini,Rumah Tangga,154000.0,1.0,Makassar,Cust4064
+ORD0195,2024-10-23,Madu Hutan 250ml,Makanan,48000.0,3.0,Semarang,Cust2336
+ORD0387,2024-03-03,Kaos Polos,Fashion,86000.0,6.0,Yogyakarta,Cust8211
+ORD0044,2024-08-30,Headset Bluetooth,Elektronik,270000.0,1.0,Jakarta,Cust9990
+ORD0382,2024-05-28,Madu Hutan 250ml,Makanan,50000.0,4.0,Medan,Cust2097
+ORD0130,2024-04-28,Botol Minum,Rumah Tangga,59000.0,7.0,Kediri,Cust9800
+ORD0547,2024-11-05,Smartwatch,Elektronik,464000.0,6.0,Surabaya,Cust1652
+ORD0219,2024-05-24,Smartwatch,Elektronik,520000.0,7.0,Semarang,Cust2439
+ORD0097,2024-07-21,Kemeja Flanel,Fashion,172000.0,7.0,Yogyakarta,Cust2804
+ORD0125,2024-08-26,Kopi Bubuk 200g,Makanan,44000.0,4.0,Yogyakarta,Cust4751
+ORD0575,2024-11-19,Kaos Polos,Fashion,55000.0,6.0,Semarang,Cust3681
+ORD0227,2024-11-11,Kopi Bubuk 200g,Makanan,48000.0,7.0,Semarang,Cust8749
+ORD0178,2024-02-10,Tas Ransel,Fashion,229000.0,2.0,Jakarta,Cust5572
+ORD0448,2024-03-19,Madu Hutan 250ml,Makanan,72000.0,7.0,Yogyakarta,Cust9745
+ORD0587,2024-12-27,Wajan Anti Lengket,Rumah Tangga,100000.0,1.0,Jakarta,Cust1789
+ORD0574,2024-07-10,Kaos Polos,Fashion,78000.0,4.0,Bandung,Cust8798
+ORD0104,2024-09-20,Kaos Polos,Fashion,67000.0,7.0,Medan,Cust5439
+ORD0082,2024-09-24,Smartwatch,Elektronik,572000.0,6.0,Medan,Cust5681
+ORD0347,2024-10-27,Madu Hutan 250ml,Makanan,48000.0,7.0,Bandung,Cust5977
+ORD0561,2024-12-25,Kabel Data USB-C,Elektronik,35000.0,7.0,Surabaya,Cust4530
+ORD0265,2024-06-07,Madu Hutan 250ml,Makanan,64000.0,4.0,Makassar,Cust4252
+ORD0571,2024-05-07,Madu Hutan 250ml,Makanan,68000.0,1.0,Kediri,Cust8363
+ORD0228,2024-01-02,Botol Minum,Rumah Tangga,51000.0,4.0,Jakarta,Cust2839
+ORD0276,2024-01-21,Smartwatch,Elektronik,267000.0,7.0,Bandung,Cust8149
+ORD0383,2024-10-02,Madu Hutan 250ml,Makanan,54000.0,6.0,Yogyakarta,Cust1930
+ORD0264,2024-06-13,Keripik Singkong,Makanan,18000.0,2.0,Kediri,Cust5767
+ORD0474,2024-09-19,Smartwatch,Elektronik,457000.0,2.0,Surabaya,Cust6737
+ORD0254,2024-01-12,Headset Bluetooth,Elektronik,192000.0,1.0,Makassar,Cust7950
+ORD0172,2024-04-06,Sepatu Sneakers,Fashion,163000.0,7.0,Kediri,Cust5644
+ORD0238,2024-06-21,Smartwatch,Elektronik,335000.0,2.0,Jakarta,Cust7780
+ORD0398,2024-12-20,Tas Ransel,Fashion,183000.0,3.0,Bandung,Cust4111
+ORD0140,2024-07-12,Smartwatch,Elektronik,430000.0,2.0,Semarang,Cust1266
+ORD0304,2024-07-18,Keripik Singkong,Makanan,14000.0,7.0,Medan,Cust7311
+ORD0268,2024-12-16,Headset Bluetooth,Elektronik,149000.0,3.0,Medan,Cust2869
+ORD0548,2024-11-09,Botol Minum,Rumah Tangga,29000.0,4.0,Jakarta,Cust8805
+ORD0376,2024-01-29,Sepatu Sneakers,Fashion,234000.0,4.0,Surabaya,Cust2212
+ORD0213,2024-07-21,Kopi Bubuk 200g,Makanan,43000.0,5.0,Surabaya,Cust5726
+ORD0199,2024-01-07,Headset Bluetooth,Elektronik,252000.0,3.0,Kediri,Cust7318
+ORD0469,2024-03-09,Tas Ransel,Fashion,207000.0,7.0,Makassar,Cust8398
+ORD0016,2024-07-09,Kopi Bubuk 200g,Makanan,46000.0,5.0,Jakarta,Cust9422
+ORD0164,2024-11-10,Power Bank 10000mAh,Elektronik,191000.0,5.0,Kediri,Cust5285
+ORD0441,2024-01-24,Madu Hutan 250ml,Makanan,84000.0,4.0,Yogyakarta,Cust2549
+ORD0407,2024-07-24,Smartwatch,Elektronik,577000.0,5.0,Yogyakarta,Cust1749
+ORD0415,2024-03-09,Kaos Polos,Fashion,80000.0,6.0,Makassar,Cust9378
+ORD0038,2024-07-17,Kopi Bubuk 200g,Makanan,42000.0,1.0,Semarang,Cust1110
+ORD0520,2024-12-23,Botol Minum,Rumah Tangga,27000.0,2.0,Makassar,Cust3382
+ORD0207,2024-11-17,Rak Buku Mini,Rumah Tangga,152000.0,7.0,Jakarta,Cust4735
+ORD0296,2024-04-04,Kabel Data USB-C,Elektronik,25000.0,4.0,Kediri,Cust2132
+ORD0556,2024-11-09,Kabel Data USB-C,Elektronik,27000.0,4.0,Medan,Cust4555
+ORD0074,2024-12-01,Sepatu Sneakers,Fashion,267000.0,5.0,Bandung,Cust1324
+ORD0395,2024-05-22,Rak Buku Mini,Rumah Tangga,178000.0,7.0,Semarang,Cust7955
+ORD0105,2024-03-29,Kopi Bubuk 200g,Makanan,25000.0,1.0,Bandung,Cust8564
+ORD0340,2024-03-22,Madu Hutan 250ml,Makanan,85000.0,2.0,Kediri,Cust9036
+ORD0017,2024-12-15,Kabel Data USB-C,Elektronik,33000.0,1.0,Yogyakarta,Cust2524
+ORD0092,2024-06-03,Kopi Bubuk 200g,Makanan,,4.0,Makassar,Cust3798
+ORD0089,2024-05-15,Rak Buku Mini,Rumah Tangga,167000.0,6.0,Kediri,Cust7381
+ORD0419,2024-06-04,Headset Bluetooth,Elektronik,251000.0,5.0,Yogyakarta,Cust9413
+ORD0206,2024-05-21,Kemeja Flanel,Fashion,179000.0,5.0,Medan,Cust2142
+ORD0103,2024-04-16,Kopi Bubuk 200g,Makanan,43000.0,2.0,Surabaya,Cust2749
+ORD0239,2024-04-11,Headset Bluetooth,Elektronik,225000.0,7.0,Bandung,Cust5301
+ORD0373,2024-08-01,Power Bank 10000mAh,Elektronik,134000.0,2.0,Kediri,Cust5174
+ORD0247,2024-01-27,Rak Buku Mini,Rumah Tangga,129000.0,7.0,Medan,Cust4690
+ORD0158,2024-11-21,Kabel Data USB-C,Elektronik,20000.0,4.0,Bandung,Cust9180
+ORD0327,2024-02-20,Kemeja Flanel,Fashion,143000.0,1.0,Yogyakarta,Cust6296
+ORD0134,2024-12-13,Kabel Data USB-C,Elektronik,15000.0,1.0,Bandung,Cust1438
+ORD0404,2024-08-27,Madu Hutan 250ml,Makanan,78000.0,7.0,Jakarta,Cust9508
+ORD0500,2024-03-07,Power Bank 10000mAh,Elektronik,187000.0,2.0,Bandung,Cust3454
+ORD0019,2024-12-11,Kopi Bubuk 200g,Makanan,54000.0,6.0,Yogyakarta,Cust1810
+ORD0479,2024-11-08,Wajan Anti Lengket,Rumah Tangga,106000.0,5.0,Surabaya,Cust7933
+ORD0497,2024-03-28,Sepatu Sneakers,Fashion,237000.0,6.0,Bandung,Cust4056
+ORD0356,2024-12-26,Madu Hutan 250ml,Makanan,94000.0,6.0,Surabaya,Cust6881
+ORD0275,2024-05-04,Power Bank 10000mAh,Elektronik,197000.0,,Semarang,Cust6031
+ORD0468,2024-11-25,Botol Minum,Rumah Tangga,29000.0,6.0,Semarang,Cust2519
+ORD0541,2024-04-10,Wajan Anti Lengket,Rumah Tangga,120000.0,2.0,Medan,Cust2066
+ORD0312,2024-10-23,Wajan Anti Lengket,Rumah Tangga,109000.0,4.0,Semarang,Cust4006
+ORD0409,2024-06-19,Madu Hutan 250ml,Makanan,56000.0,4.0,Surabaya,Cust5069
+ORD0527,2024-01-02,Keripik Singkong,Makanan,22000.0,2.0,Semarang,Cust6147
+ORD0269,2024-01-11,Botol Minum,Rumah Tangga,26000.0,2.0,Makassar,Cust4420
+ORD0035,2024-09-18,Keripik Singkong,Makanan,20000.0,7.0,Jakarta,Cust8616
+ORD0182,2024-11-11,Tas Ransel,Fashion,136000.0,7.0,Kediri,Cust7148
+ORD0185,2024-02-24,Smartwatch,Elektronik,552000.0,5.0,Surabaya,Cust6431
+ORD0208,2024-03-07,Madu Hutan 250ml,Makanan,71000.0,2.0,Medan,Cust3458
+ORD0450,2024-04-12,Headset Bluetooth,Elektronik,202000.0,7.0,Kediri,Cust4254
+ORD0095,2024-07-10,Keripik Singkong,Makanan,20000.0,2.0,Makassar,Cust5200
+ORD0524,2024-12-25,Kopi Bubuk 200g,Makanan,32000.0,1.0,Kediri,Cust4892
+ORD0423,2024-07-08,Rak Buku Mini,Rumah Tangga,97000.0,1.0,Yogyakarta,Cust5557
+ORD0354,2024-02-29,Smartwatch,Elektronik,280000.0,3.0,Surabaya,Cust2577
+ORD0123,2024-11-12,Wajan Anti Lengket,Rumah Tangga,119000.0,6.0,Kediri,Cust1667
+ORD0576,2024-05-29,Power Bank 10000mAh,Elektronik,118000.0,4.0,Medan,Cust8012
+ORD0365,2024-10-28,Sepatu Sneakers,Fashion,,6.0,Jakarta,Cust4136
+ORD0079,2024-06-06,Kabel Data USB-C,Elektronik,23000.0,4.0,Surabaya,Cust5766
+ORD0351,2024-06-18,Kabel Data USB-C,Elektronik,28000.0,6.0,Semarang,Cust3782
+ORD0062,2024-05-15,Rak Buku Mini,Rumah Tangga,168000.0,3.0,Surabaya,Cust1825
+ORD0252,2024-07-10,Smartwatch,Elektronik,548000.0,3.0,Medan,Cust7615
+ORD0126,2024-02-26,Kabel Data USB-C,Elektronik,39000.0,1.0,Yogyakarta,Cust3593
+ORD0446,2024-08-16,Wajan Anti Lengket,Rumah Tangga,137000.0,3.0,Yogyakarta,Cust2142
+ORD0443,2024-12-17,Sepatu Sneakers,Fashion,252000.0,3.0,Surabaya,Cust2798
+ORD0597,2024-04-22,Botol Minum,Rumah Tangga,55000.0,6.0,Surabaya,Cust7773
+ORD0348,2024-01-16,Madu Hutan 250ml,Makanan,71000.0,4.0,Makassar,Cust1834
+ORD0492,2024-05-22,Keripik Singkong,Makanan,18000.0,6.0,Surabaya,Cust3460
+ORD0599,2024-07-26,Botol Minum,Rumah Tangga,24000.0,3.0,Yogyakarta,Cust3238
+ORD0542,2024-01-09,Kaos Polos,Fashion,56000.0,2.0,Surabaya,Cust9493
+ORD0068,2024-06-17,Power Bank 10000mAh,Elektronik,212000.0,2.0,Surabaya,Cust5574
+ORD0025,2024-02-13,Rak Buku Mini,Rumah Tangga,105000.0,7.0,Makassar,Cust8072
+ORD0460,2024-10-17,Sepatu Sneakers,Fashion,257000.0,5.0,Semarang,Cust2816
+ORD0505,2024-08-11,Kemeja Flanel,Fashion,142000.0,7.0,Kediri,Cust4969
+ORD0416,2024-07-30,Wajan Anti Lengket,Rumah Tangga,117000.0,7.0,Yogyakarta,Cust4369
+ORD0127,2024-09-30,Sepatu Sneakers,Fashion,314000.0,6.0,Yogyakarta,Cust6732
+ORD0546,2024-05-23,Kaos Polos,Fashion,,2.0,Surabaya,Cust9255
+ORD0335,2024-06-17,Smartwatch,Elektronik,362000.0,3.0,Bandung,Cust2600
+ORD0406,2024-08-13,Kabel Data USB-C,Elektronik,29000.0,7.0,Jakarta,Cust1346
+ORD0179,2024-05-01,Keripik Singkong,Makanan,15000.0,4.0,Jakarta,Cust4690
+ORD0427,2024-03-19,Keripik Singkong,Makanan,24000.0,4.0,Yogyakarta,Cust5025
+ORD0563,2024-02-04,Smartwatch,Elektronik,274000.0,7.0,Surabaya,Cust6375
+ORD0136,2024-01-03,Headset Bluetooth,Elektronik,248000.0,5.0,Makassar,Cust8788
+ORD0224,2024-05-30,Tas Ransel,Fashion,231000.0,5.0,Kediri,Cust5652
+ORD0600,2024-04-13,Botol Minum,Rumah Tangga,31000.0,3.0,Medan,Cust6596
+ORD0566,2024-10-11,Kemeja Flanel,Fashion,177000.0,4.0,Yogyakarta,Cust3711
+ORD0508,2024-06-20,Kemeja Flanel,Fashion,81000.0,5.0,Kediri,Cust5448
+ORD0094,2024-05-01,Power Bank 10000mAh,Elektronik,140000.0,7.0,Semarang,Cust1096
+ORD0485,2024-03-13,Smartwatch,Elektronik,372000.0,1.0,Kediri,Cust4365
+ORD0070,2024-12-11,Smartwatch,Elektronik,291000.0,7.0,Surabaya,Cust3502
+ORD0037,2024-02-14,Keripik Singkong,Makanan,23000.0,5.0,Jakarta,Cust5303
+ORD0297,2024-08-31,Kopi Bubuk 200g,Makanan,49000.0,1.0,Bandung,Cust2181
+ORD0161,2024-04-27,Madu Hutan 250ml,Makanan,87000.0,2.0,Bandung,Cust2596
+ORD0363,2024-08-07,Kemeja Flanel,Fashion,133000.0,1.0,Yogyakarta,Cust4347
+ORD0012,2024-01-27,Madu Hutan 250ml,Makanan,71000.0,6.0,Semarang,Cust3593
+ORD0145,2024-11-19,Madu Hutan 250ml,Makanan,50000.0,2.0,Medan,Cust8796
+ORD0510,2024-12-27,Kemeja Flanel,Fashion,135000.0,5.0,Makassar,Cust1977
+ORD0128,2024-04-18,Rak Buku Mini,Rumah Tangga,128000.0,1.0,Jakarta,Cust1368
+ORD0410,2024-12-07,Kaos Polos,Fashion,45000.0,4.0,Makassar,Cust3976
+ORD0303,2024-11-28,Kaos Polos,Fashion,57000.0,5.0,Yogyakarta,Cust7673
+ORD0010,2024-12-16,Sepatu Sneakers,Fashion,215000.0,4.0,Medan,Cust8636
+ORD0528,2024-11-18,Tas Ransel,Fashion,185000.0,3.0,Yogyakarta,Cust1347
+ORD0177,2024-02-10,Rak Buku Mini,Rumah Tangga,106000.0,1.0,Bandung,Cust4732
+ORD0232,2024-07-27,Kopi Bubuk 200g,Makanan,34000.0,3.0,Medan,Cust6228
+ORD0211,2024-08-05,Kemeja Flanel,Fashion,98000.0,1.0,Jakarta,Cust2406
+ORD0129,2024-06-27,Botol Minum,Rumah Tangga,40000.0,6.0,Yogyakarta,Cust8874
+ORD0144,2024-06-12,Power Bank 10000mAh,Elektronik,128000.0,5.0,Medan,Cust4572
+ORD0242,2024-02-02,Botol Minum,Rumah Tangga,21000.0,1.0,Kediri,Cust9633
+ORD0008,2024-10-16,Wajan Anti Lengket,Rumah Tangga,124000.0,2.0,Bandung,Cust9538
+ORD0024,2024-03-27,Keripik Singkong,Makanan,22000.0,4.0,Kediri,Cust6395
+ORD0299,2024-03-13,Kemeja Flanel,Fashion,168000.0,3.0,Makassar,Cust2461
+ORD0311,2024-07-17,Wajan Anti Lengket,Rumah Tangga,96000.0,3.0,Makassar,Cust7341
+ORD0255,2024-12-09,Wajan Anti Lengket,Rumah Tangga,73000.0,2.0,Medan,Cust4675
+ORD0545,2024-08-21,Kopi Bubuk 200g,Makanan,27000.0,2.0,Makassar,Cust4900
+ORD0481,2024-12-16,Headset Bluetooth,Elektronik,260000.0,5.0,Yogyakarta,Cust7343
+ORD0009,2024-06-24,Tas Ransel,Fashion,200000.0,7.0,Makassar,Cust7931
+ORD0157,2024-11-23,Sepatu Sneakers,Fashion,346000.0,2.0,Bandung,Cust4476
+ORD0028,2024-09-26,Kopi Bubuk 200g,Makanan,45000.0,6.0,Bandung,Cust9084
+ORD0267,2024-12-13,Smartwatch,Elektronik,281000.0,4.0,Makassar,Cust2320
+ORD0315,2024-10-06,Kemeja Flanel,Fashion,82000.0,6.0,Yogyakarta,Cust3098
+ORD0065,2024-02-22,Power Bank 10000mAh,Elektronik,203000.0,5.0,Kediri,Cust3234
+ORD0466,2024-03-08,Madu Hutan 250ml,Makanan,54000.0,5.0,Bandung,Cust6878
+ORD0256,2024-09-22,Tas Ransel,Fashion,118000.0,2.0,Yogyakarta,Cust1903
+ORD0456,2024-11-13,Kabel Data USB-C,Elektronik,27000.0,5.0,Yogyakarta,Cust9793
+ORD0154,2024-12-17,Headset Bluetooth,Elektronik,123000.0,3.0,Kediri,Cust6710
+ORD0049,2024-01-14,Wajan Anti Lengket,Rumah Tangga,93000.0,5.0,Yogyakarta,Cust1049
+ORD0209,2024-08-05,Kemeja Flanel,Fashion,152000.0,1.0,Kediri,Cust2188
+ORD0452,2024-09-21,Keripik Singkong,Makanan,13000.0,4.0,Makassar,Cust5014
+ORD0288,2024-12-26,Botol Minum,Rumah Tangga,53000.0,5.0,Jakarta,Cust5046
+ORD0002,2024-12-18,Rak Buku Mini,Rumah Tangga,148000.0,3.0,Medan,Cust8717
+ORD0428,2024-06-28,Kopi Bubuk 200g,Makanan,29000.0,5.0,Surabaya,Cust4096
+ORD0342,2024-04-22,Headset Bluetooth,Elektronik,137000.0,3.0,Surabaya,Cust5804
+ORD0270,2024-01-01,Botol Minum,Rumah Tangga,24000.0,2.0,Yogyakarta,Cust3893
+ORD0266,2024-03-07,Botol Minum,Rumah Tangga,25000.0,3.0,Surabaya,Cust9569
+ORD0549,2024-08-13,Kabel Data USB-C,Elektronik,28000.0,3.0,Jakarta,Cust5838
+ORD0488,2024-04-13,Kabel Data USB-C,Elektronik,38000.0,6.0,Surabaya,Cust2778
+ORD0480,2024-06-07,Sepatu Sneakers,Fashion,276000.0,3.0,Bandung,Cust6962
+ORD0369,2024-03-18,Kaos Polos,Fashion,61000.0,1.0,Jakarta,Cust6382
+ORD0096,2024-06-01,Headset Bluetooth,Elektronik,149000.0,5.0,Surabaya,Cust8525
+ORD0583,2024-02-21,Sepatu Sneakers,Fashion,344000.0,5.0,Surabaya,Cust3367
+ORD0353,2024-02-13,Headset Bluetooth,Elektronik,236000.0,6.0,Yogyakarta,Cust7836
+ORD0043,2024-04-13,Wajan Anti Lengket,Rumah Tangga,73000.0,7.0,,Cust8001
+ORD0362,2024-06-18,Keripik Singkong,Makanan,22000.0,3.0,Semarang,Cust1239
+ORD0455,2024-03-20,Botol Minum,Rumah Tangga,31000.0,7.0,Makassar,Cust4451
+ORD0456,2024-11-13,Kabel Data USB-C,Elektronik,27000.0,5.0,Yogyakarta,Cust9793
+ORD0117,2024-06-12,Kaos Polos,Fashion,72000.0,7.0,Semarang,Cust4781
+ORD0425,2024-05-17,Power Bank 10000mAh,Elektronik,171000.0,5.0,Jakarta,Cust8113
+ORD0046,2024-11-11,Madu Hutan 250ml,Makanan,49000.0,5.0,Yogyakarta,Cust1260
+ORD0162,2024-01-01,Wajan Anti Lengket,Rumah Tangga,82000.0,3.0,Makassar,Cust3548
+ORD0535,2024-05-27,Botol Minum,Rumah Tangga,26000.0,3.0,Semarang,Cust3187
+ORD0118,2024-07-25,Sepatu Sneakers,Fashion,211000.0,1.0,Medan,Cust1065
+ORD0289,2024-09-30,Kabel Data USB-C,Elektronik,22000.0,7.0,,Cust3499
+ORD0078,2024-03-30,Kemeja Flanel,Fashion,145000.0,5.0,Bandung,Cust8086
+ORD0539,2024-04-15,Kabel Data USB-C,Elektronik,25000.0,4.0,Surabaya,Cust2729
+ORD0390,2024-06-20,Tas Ransel,Fashion,159000.0,6.0,Medan,Cust2152
+ORD0572,2024-11-03,Power Bank 10000mAh,Elektronik,202000.0,6.0,Jakarta,Cust4567
+ORD0413,2024-06-30,Kemeja Flanel,Fashion,123000.0,6.0,Surabaya,Cust2933
+ORD0064,2024-04-02,Madu Hutan 250ml,Makanan,67000.0,4.0,Makassar,Cust6727
+ORD0339,2024-09-30,Tas Ransel,Fashion,159000.0,3.0,Surabaya,Cust7429
+ORD0316,2024-08-16,Wajan Anti Lengket,Rumah Tangga,131000.0,1.0,Kediri,Cust5107
+ORD0300,2024-10-01,Kaos Polos,Fashion,80000.0,,Makassar,Cust3219
+ORD0400,2024-12-19,Headset Bluetooth,Elektronik,149000.0,4.0,Semarang,Cust4501
+ORD0231,2024-05-24,Smartwatch,Elektronik,575000.0,7.0,Semarang,Cust6639
+ORD0298,2024-04-21,Smartwatch,Elektronik,479000.0,6.0,Semarang,Cust1177
+ORD0187,2024-03-09,Tas Ransel,Fashion,113000.0,1.0,Yogyakarta,Cust8348
+ORD0594,2024-10-02,Madu Hutan 250ml,Makanan,58000.0,3.0,Surabaya,Cust3216
+ORD0200,2024-11-04,Madu Hutan 250ml,Makanan,53000.0,5.0,Semarang,Cust7372
+ORD0421,2024-11-01,Keripik Singkong,Makanan,23000.0,6.0,Surabaya,Cust1620
+ORD0366,2024-10-02,Kabel Data USB-C,Elektronik,29000.0,2.0,Kediri,Cust3436
+ORD0494,2024-02-24,Botol Minum,Rumah Tangga,42000.0,6.0,Semarang,Cust1629
+ORD0397,2024-08-28,Kaos Polos,Fashion,62000.0,4.0,Bandung,Cust4153
+ORD0122,2024-04-13,Wajan Anti Lengket,Rumah Tangga,142000.0,4.0,Semarang,Cust9667
+ORD0586,2024-03-09,Keripik Singkong,Makanan,14000.0,1.0,Jakarta,Cust2080
+ORD0248,2024-03-22,Power Bank 10000mAh,Elektronik,107000.0,7.0,Bandung,Cust5975
+ORD0308,2024-07-15,Kabel Data USB-C,Elektronik,32000.0,4.0,Jakarta,Cust4600
+ORD0582,2024-01-22,Kopi Bubuk 200g,Makanan,51000.0,6.0,Makassar,Cust4145
+ORD0067,2024-08-24,Keripik Singkong,Makanan,18000.0,5.0,Bandung,Cust4983
+ORD0364,2024-04-15,Keripik Singkong,Makanan,18000.0,5.0,Bandung,Cust4767
+ORD0159,2024-09-27,Kabel Data USB-C,Elektronik,22000.0,4.0,Yogyakarta,Cust2940
+ORD0086,2024-07-25,Wajan Anti Lengket,Rumah Tangga,74000.0,1.0,Bandung,Cust4006
+ORD0470,2024-07-12,Madu Hutan 250ml,Makanan,50000.0,5.0,Kediri,Cust5675
+ORD0226,2024-06-11,Headset Bluetooth,Elektronik,260000.0,7.0,Medan,Cust1941
+ORD0377,2024-04-26,Rak Buku Mini,Rumah Tangga,161000.0,7.0,Surabaya,Cust4093
+ORD0263,2024-10-10,Headset Bluetooth,Elektronik,133000.0,7.0,Jakarta,Cust3955
+ORD0332,2024-01-01,Power Bank 10000mAh,Elektronik,179000.0,6.0,Semarang,Cust9927
+ORD0234,2024-01-25,Rak Buku Mini,Rumah Tangga,192000.0,4.0,Kediri,Cust2770
+ORD0077,2024-08-24,Headset Bluetooth,Elektronik,226000.0,5.0,Medan,Cust6283
+ORD0476,2024-04-13,Rak Buku Mini,Rumah Tangga,141000.0,4.0,Yogyakarta,Cust5279
+ORD0166,2024-04-07,Kopi Bubuk 200g,Makanan,49000.0,5.0,Yogyakarta,Cust8087
+ORD0150,2024-09-25,Kaos Polos,Fashion,89000.0,6.0,Semarang,Cust6356
+ORD0088,2024-06-08,Headset Bluetooth,Elektronik,253000.0,7.0,Jakarta,Cust8443
+ORD0458,2024-02-24,Botol Minum,Rumah Tangga,26000.0,7.0,Jakarta,Cust2755
+ORD0422,2024-09-23,Wajan Anti Lengket,Rumah Tangga,92000.0,5.0,Bandung,Cust8868
+ORD0330,2024-02-26,Kabel Data USB-C,Elektronik,35000.0,5.0,Surabaya,Cust4811
+ORD0183,2024-04-30,Smartwatch,Elektronik,366000.0,2.0,Semarang,Cust3221
+ORD0477,2024-10-27,Kopi Bubuk 200g,Makanan,46000.0,1.0,Makassar,Cust7476
+ORD0518,2024-01-22,Kaos Polos,Fashion,87000.0,6.0,Kediri,Cust8506
+ORD0106,2024-07-22,Kopi Bubuk 200g,Makanan,50000.0,6.0,Semarang,Cust6841
+ORD0333,2024-07-07,Headset Bluetooth,Elektronik,124000.0,7.0,Jakarta,Cust1953
+ORD0439,2024-07-14,Sepatu Sneakers,Fashion,337000.0,2.0,,Cust1622
+ORD0050,2024-10-26,Rak Buku Mini,Rumah Tangga,90000.0,,Jakarta,Cust6452
+ORD0336,2024-05-14,Kopi Bubuk 200g,Makanan,37000.0,2.0,Jakarta,Cust7049
+ORD0006,2024-07-03,Keripik Singkong,Makanan,15000.0,3.0,Bandung,Cust4297
+ORD0018,2024-06-11,Sepatu Sneakers,Fashion,310000.0,3.0,Medan,Cust8042
+ORD0235,2024-05-23,Smartwatch,Elektronik,368000.0,3.0,Bandung,Cust7919
+ORD0487,2024-02-10,Headset Bluetooth,Elektronik,251000.0,2.0,Medan,Cust1897
+ORD0544,2024-04-03,Tas Ransel,Fashion,227000.0,5.0,Kediri,Cust1316
+ORD0498,2024-03-25,Power Bank 10000mAh,Elektronik,136000.0,2.0,Surabaya,Cust5206
+ORD0107,2024-10-05,Rak Buku Mini,Rumah Tangga,134000.0,5.0,Makassar,Cust6523
+ORD0444,2024-02-16,Smartwatch,Elektronik,283000.0,5.0,Makassar,Cust7369
+ORD0489,2024-07-12,Rak Buku Mini,Rumah Tangga,133000.0,3.0,Bandung,Cust2701
+ORD0013,2024-03-14,Rak Buku Mini,Rumah Tangga,109000.0,6.0,Jakarta,Cust6376
+ORD0191,2024-08-13,Wajan Anti Lengket,Rumah Tangga,92000.0,6.0,Medan,Cust5119
+ORD0283,2024-12-02,Wajan Anti Lengket,Rumah Tangga,109000.0,,Surabaya,Cust6828
+ORD0030,2024-04-24,Smartwatch,Elektronik,377000.0,4.0,Bandung,Cust2418
+ORD0170,2024-09-26,Kaos Polos,Fashion,46000.0,7.0,Yogyakarta,Cust1926
+ORD0181,2024-04-27,Madu Hutan 250ml,Makanan,71000.0,2.0,Surabaya,Cust6376
+ORD0101,2024-02-24,Kopi Bubuk 200g,Makanan,39000.0,4.0,Yogyakarta,Cust3756
+ORD0198,2024-11-10,Sepatu Sneakers,Fashion,213000.0,6.0,Jakarta,Cust1268
+ORD0496,2024-03-16,Power Bank 10000mAh,Elektronik,187000.0,1.0,Makassar,Cust5033
+ORD0589,2024-10-09,Kopi Bubuk 200g,Makanan,47000.0,5.0,Jakarta,Cust1335
+ORD0374,2024-01-10,Power Bank 10000mAh,Elektronik,115000.0,3.0,Semarang,Cust2926
+ORD0461,2024-08-13,Rak Buku Mini,Rumah Tangga,145000.0,6.0,Makassar,Cust6866
+ORD0414,2024-01-28,Sepatu Sneakers,Fashion,257000.0,2.0,Yogyakarta,Cust9671
+ORD0132,2024-07-16,Kabel Data USB-C,Elektronik,17000.0,2.0,Medan,Cust8217
+ORD0040,2024-04-25,Botol Minum,Rumah Tangga,31000.0,7.0,Kediri,Cust4980
+ORD0435,2024-09-14,Smartwatch,Elektronik,481000.0,1.0,Surabaya,Cust5905
+ORD0216,2024-12-03,Kemeja Flanel,Fashion,178000.0,2.0,Kediri,Cust5630
+ORD0475,2024-12-24,Botol Minum,Rumah Tangga,44000.0,1.0,Medan,Cust1155
+ORD0457,2024-01-18,Tas Ransel,Fashion,106000.0,2.0,Medan,Cust4197
+ORD0261,2024-03-31,Kopi Bubuk 200g,Makanan,,4.0,Semarang,Cust3997
+ORD0036,2024-04-08,Kaos Polos,Fashion,87000.0,3.0,Jakarta,Cust8653
+ORD0310,2024-11-05,Sepatu Sneakers,Fashion,238000.0,2.0,Yogyakarta,Cust8685
+ORD0277,2024-10-01,Smartwatch,Elektronik,480000.0,5.0,Jakarta,Cust6735
+ORD0394,2024-05-18,Botol Minum,Rumah Tangga,37000.0,6.0,Semarang,Cust9339
+ORD0108,2024-09-28,Wajan Anti Lengket,Rumah Tangga,74000.0,6.0,Bandung,Cust5855
+ORD0570,2024-08-08,Kabel Data USB-C,Elektronik,32000.0,3.0,Medan,Cust5459
+ORD0525,2024-10-10,Headset Bluetooth,Elektronik,245000.0,2.0,Makassar,Cust6474
+ORD0048,2024-01-06,Keripik Singkong,Makanan,22000.0,6.0,Surabaya,Cust9194
+ORD0204,2024-02-14,Wajan Anti Lengket,Rumah Tangga,83000.0,6.0,Medan,Cust9924
+ORD0022,2024-06-22,Power Bank 10000mAh,Elektronik,163000.0,1.0,Medan,Cust5193
+ORD0403,2024-08-06,Headset Bluetooth,Elektronik,294000.0,7.0,Surabaya,Cust1941
+ORD0084,2024-01-16,Kopi Bubuk 200g,Makanan,50000.0,3.0,Kediri,Cust2042
+ORD0131,2024-10-16,Kabel Data USB-C,Elektronik,21000.0,3.0,Jakarta,Cust6847
+ORD0416,2024-07-30,Wajan Anti Lengket,Rumah Tangga,117000.0,7.0,Yogyakarta,Cust4369
+ORD0287,2024-09-04,Tas Ransel,Fashion,183000.0,2.0,Jakarta,Cust9874
+ORD0124,2024-10-22,Smartwatch,Elektronik,289000.0,4.0,Semarang,Cust4960
+ORD0034,2024-02-21,Kabel Data USB-C,Elektronik,34000.0,5.0,Kediri,Cust4386
+ORD0517,2024-01-22,Keripik Singkong,Makanan,14000.0,2.0,Semarang,Cust6663
+ORD0020,2024-01-19,Smartwatch,Elektronik,338000.0,6.0,Medan,Cust1855
+ORD0560,2024-01-03,Kopi Bubuk 200g,Makanan,48000.0,4.0,Yogyakarta,Cust7495
+ORD0220,2024-05-11,Keripik Singkong,Makanan,20000.0,4.0,Surabaya,Cust9652
+ORD0482,2024-08-17,Kopi Bubuk 200g,Makanan,36000.0,5.0,Kediri,Cust8308
+ORD0357,2024-05-23,Tas Ransel,Fashion,126000.0,4.0,Yogyakarta,Cust2652
+ORD0225,2024-09-23,Rak Buku Mini,Rumah Tangga,99000.0,6.0,Semarang,Cust5804
+ORD0093,2024-09-14,Kopi Bubuk 200g,Makanan,48000.0,5.0,Surabaya,Cust7776
+ORD0152,2024-02-07,Kemeja Flanel,Fashion,129000.0,3.0,Surabaya,Cust4288
+ORD0595,2024-04-30,Headset Bluetooth,Elektronik,263000.0,6.0,Semarang,Cust9575
+ORD0318,2024-06-17,Rak Buku Mini,Rumah Tangga,121000.0,3.0,Bandung,Cust6273
+ORD0449,2024-06-25,Kabel Data USB-C,Elektronik,25000.0,5.0,Makassar,Cust5109
+ORD0523,2024-12-18,Tas Ransel,Fashion,244000.0,2.0,Bandung,Cust6054
+ORD0280,2024-04-12,Sepatu Sneakers,Fashion,150000.0,4.0,Yogyakarta,Cust3527
+ORD0350,2024-03-14,Tas Ransel,Fashion,138000.0,3.0,Makassar,Cust5537
+ORD0375,2024-03-16,Keripik Singkong,Makanan,23000.0,1.0,Kediri,Cust1941
+ORD0401,2024-07-24,Madu Hutan 250ml,Makanan,88000.0,2.0,,Cust7822
+ORD0258,2024-01-23,Sepatu Sneakers,Fashion,185000.0,5.0,Kediri,Cust5048
+ORD0073,2024-03-20,Smartwatch,Elektronik,303000.0,3.0,Makassar,Cust9541
+ORD0196,2024-02-11,Sepatu Sneakers,Fashion,213000.0,4.0,Makassar,Cust6406
+ORD0484,2024-08-06,Kopi Bubuk 200g,Makanan,38000.0,4.0,Surabaya,Cust7706
+ORD0138,2024-02-07,Kaos Polos,Fashion,47000.0,7.0,Surabaya,Cust6596
+ORD0495,2024-10-12,Headset Bluetooth,Elektronik,196000.0,4.0,Surabaya,Cust6233
+ORD0551,2024-09-22,Kopi Bubuk 200g,Makanan,29000.0,7.0,Jakarta,Cust9776
+ORD0463,2024-03-23,Rak Buku Mini,Rumah Tangga,102000.0,1.0,Kediri,Cust4664
+ORD0202,2024-03-27,Keripik Singkong,Makanan,23000.0,2.0,Medan,Cust2134
+ORD0313,2024-11-29,Sepatu Sneakers,Fashion,311000.0,2.0,Kediri,Cust9589
+ORD0291,2024-12-11,Kopi Bubuk 200g,Makanan,30000.0,3.0,Bandung,Cust7429
+ORD0190,2024-06-29,Headset Bluetooth,Elektronik,226000.0,5.0,Makassar,Cust1042
+ORD0113,2024-07-12,Kabel Data USB-C,Elektronik,29000.0,4.0,Makassar,Cust5652
+ORD0184,2024-06-29,Wajan Anti Lengket,Rumah Tangga,144000.0,4.0,Jakarta,Cust5146
+ORD0153,2024-03-14,Keripik Singkong,Makanan,13000.0,1.0,Bandung,Cust5992
+ORD0326,2024-04-15,Kemeja Flanel,Fashion,141000.0,7.0,Yogyakarta,Cust9826
+ORD0045,2024-08-25,Kaos Polos,Fashion,,5.0,Surabaya,Cust6609
+ORD0445,2024-12-22,Kabel Data USB-C,Elektronik,28000.0,6.0,Surabaya,Cust6571
+ORD0007,2024-05-18,Sepatu Sneakers,Fashion,297000.0,3.0,Kediri,Cust2646
+ORD0251,2024-02-28,Tas Ransel,Fashion,112000.0,2.0,Kediri,Cust1959
+ORD0076,2024-05-08,Smartwatch,Elektronik,328000.0,1.0,Medan,Cust6091
+ORD0513,2024-04-24,Kopi Bubuk 200g,Makanan,28000.0,7.0,Surabaya,Cust2153
+ORD0392,2024-01-12,Tas Ransel,Fashion,115000.0,6.0,Makassar,Cust6303
+ORD0433,2024-01-14,Kopi Bubuk 200g,Makanan,29000.0,4.0,Bandung,Cust2840
+ORD0069,2024-06-22,Sepatu Sneakers,Fashion,288000.0,3.0,Yogyakarta,Cust2163
+ORD0168,2024-04-26,Tas Ransel,Fashion,115000.0,3.0,Semarang,Cust9597
+ORD0555,2024-07-02,Madu Hutan 250ml,Makanan,94000.0,2.0,Bandung,Cust7050
+ORD0367,2024-04-24,Smartwatch,Elektronik,,4.0,Surabaya,Cust5053
+ORD0346,2024-01-10,Kemeja Flanel,Fashion,162000.0,3.0,Surabaya,Cust2321
+ORD0585,2024-03-02,Power Bank 10000mAh,Elektronik,197000.0,3.0,Makassar,Cust3618
+ORD0536,2024-12-28,Tas Ransel,Fashion,238000.0,1.0,Surabaya,Cust7567
+ORD0399,2024-02-04,Kemeja Flanel,Fashion,87000.0,3.0,Medan,Cust3750
+ORD0186,2024-01-08,Smartwatch,Elektronik,266000.0,3.0,Surabaya,Cust9268
+ORD0349,2024-09-26,Tas Ransel,Fashion,163000.0,3.0,Medan,Cust6287
+ORD0212,2024-11-02,Rak Buku Mini,Rumah Tangga,115000.0,6.0,Makassar,Cust3282
+ORD0580,2024-02-14,Sepatu Sneakers,Fashion,256000.0,1.0,Kediri,Cust5045
+ORD0503,2024-12-05,Madu Hutan 250ml,Makanan,71000.0,6.0,Jakarta,Cust4284
+ORD0538,2024-03-04,Sepatu Sneakers,Fashion,243000.0,1.0,Surabaya,Cust2668
+ORD0197,2024-05-31,Headset Bluetooth,Elektronik,173000.0,2.0,Medan,Cust6720
+ORD0176,2024-03-25,Smartwatch,Elektronik,355000.0,4.0,Kediri,Cust4749
